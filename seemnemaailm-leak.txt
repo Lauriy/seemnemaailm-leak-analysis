@@ -2,11 +2,11 @@
 18,laineparts,laine@ttk.ee,1234
 23,uurmank,uurmank@hot.ee,123456
 24,adson,adson@hot.ee,tÅ‘nu
-30,K\xe4rt Loo,kart.loo@mail.ee,pinda
+30,Kärt Loo,kart.loo@mail.ee,pinda
 32,pirgo,pirgo@hot.ee,1970
 33,Kambik,everyytli@hot.ee,Er1979
 40,harry444,harry444@hot.ee,tauri
-42,K\xdcLLI  KUUS,statistik@jmh.ee,VALGUS
+42,KÜLLI  KUUS,statistik@jmh.ee,VALGUS
 45,ulliriin,ulli.riina@mail.ee,solovei
 46,ketumaa,kerstiedur@hot.ee,kakuke1989
 53,seemnepood,ylo40@one.ee,nantes
@@ -17,17 +17,17 @@
 67,ILME,ilme.liblikas@ut.ee,hedvig
 69,Ylle.Raud,ylle.raud@email.ee,nemeesia
 72,HELLE25,helle.madisson@mail.ee,AEDNIK
-75,Ata,aidi.vallik@mail.ee,p\xe4tap\xe4ta
+75,Ata,aidi.vallik@mail.ee,pätapäta
 88,ingrid ploom,ingrid.ploom@hariduskeskus.ee,iti
 93,wolli,hiiumaa@gmail.com,kaktus62
 109,maresam,mare.sammel@gmail.com,siidisaba
 110,otokar,Kulla.Tepner@mail.ee,hiiumaa
 111,urmaste,jaanika.urmaste@mail.ee,methos
-113,K\xfclli P\xe4hn,kullike22@hot.ee,redis
+113,Külli Pähn,kullike22@hot.ee,redis
 118,Annemari,annemari@estpak.ee,sierra
 120,KAITKARU,andres.karu.001@mail.ee,KAIT
 131,marisrai,maris.raigla@mail.ee,salasÅ‘na
-135,kiltsim\xe4e,lill@trenet.ee,lille
+135,kiltsimäe,lill@trenet.ee,lille
 144,naano,naano@hot.ee,jakob
 146,krysanteem,lea.taal@mail.ee,lt1965
 152,ahistatav,tiia.reier@mail.ee,ohvriabi
@@ -38,7 +38,7 @@
 175,stromate,xxxxxxxx@xxx.ee,stromate
 181,MargeElbre,weiks1@hotmail.com,lilleke
 191,annaliisa,anneli@luts.ee,anne19
-192,p\xf6ial-liisi,anneli@luts.ee,anne19
+192,pöial-liisi,anneli@luts.ee,anne19
 200,krista001,olga.popova@mail.ee,tamstams
 209,erik,erikule@hot.ee,automaat
 224,LEENANARGLA,leenanargla@hot.ee,MAIRIT
@@ -71,22 +71,22 @@
 372,Evi Kuusk,kuuskae@hot.ee,kodune
 373,"Kodu,Aed ja Mets",rahnimaja@hot.ee,11765
 385,kristiina,kristiina@colleduc.ee,cdrtgb
-386,AL O\xdc,merlerattus@hot.ee,merle
+386,AL OÜ,merlerattus@hot.ee,merle
 387,vastikaff,vastikaff@msn.com,kalasaba
 391,kirivere,kool@koo.ee,koo
 392,urvetabri,urvetabri@hot.ee,taebla
 397,aianduse,elar.piir@mail.ee,abc
 409,hektar,ulle.kas@mail.ee,venemaa
-420,Piret-\xdclle,peep125@hot.ee,lilleke
+420,Piret-Ülle,peep125@hot.ee,lilleke
 422,kate-riine,katiolm@hot.ee,123456
-423,alvit\xe4nav,alla21@hot.ee,kaisukaru
+423,alvitänav,alla21@hot.ee,kaisukaru
 430,Aljona,jelrom@hot.ee,syberia
 432,Atsirk Sonni,kry2@hot.ee,Innos
 438,tiigrike,kass@kass.planet.ee,kala1rohi
 440,terrot,terrot@hot.ee,bmwr35
 445,kadri,kersti.tarkmees@mail.ee,triin
 449,tanja,varnja.raamatukogu@mail.ee,sosenka
-452,n\xe4ssu,harrie@hot.ee,aime
+452,nässu,harrie@hot.ee,aime
 459,MARGUS,lill@trenet.ee,lille
 460,juta230,juta.ylemaantee@mail.ee,230880
 461,tiina61,tiina61@hot.ee,160691
@@ -127,9 +127,9 @@
 609,Riita K,riitakolu@hot.ee,18evald31
 616,tiits,ingrid.tiits@prn.ee,rebane
 628,alruus,alruus@hot.ee,karljoonas
-633,meelis issak,roolitalu@hot.ee,\xe4ss
+633,meelis issak,roolitalu@hot.ee,äss
 634,maret,marii72@hot.ee,maret
-647,Viive,Viive10@hot.ee,T\xfc\xfcr
+647,Viive,Viive10@hot.ee,Tüür
 648,avavk5,veronika.tammearu@mail.ee,trollid
 651,Adina,adina.laid@gmail.com,Ruudi
 667,aiamaa,kaja.valner@mail.ee,kukruse
@@ -194,7 +194,7 @@
 1003,aires,aire.sade@mail.ee,sosin
 1010,mlana,mlana@hot.ee,vassili
 1012,manducet,manducet@hot.ee,ingavirve
-1017,Lii S\xfcld,liisyld@hot.ee,sisalik
+1017,Lii Süld,liisyld@hot.ee,sisalik
 1018,uller,yllereimets@hot.ee,muki57
 1019,maire,maire.mae@just.ee,kaasiku
 1022,vaikeuus,vaike@taibu.com,vauus
@@ -214,11 +214,11 @@
 1063,sirjeri,sirjeri@hot.ee,raamat
 1066,Marita,marital@luukku.com,leetah
 1071,rohtla39,rohtla39@hot.ee,kartul
-1075,O\xdc Mauriks,mauriks@tt.ee,Aadu Grepp
+1075,OÜ Mauriks,mauriks@tt.ee,Aadu Grepp
 1076,lyly,lii.kaarna@mail.ee,othello
 1079,sinilind,jana.markus@mail.ee,sinilind
 1080,orlova,ljudmila.orlova@mail.ee,natasa
-1084,Rohen\xe4pp,fingertips@hot.ee,ei1tea7
+1084,Rohenäpp,fingertips@hot.ee,ei1tea7
 1086,solisia,ylle.sikk@mail.ee,retis
 1090,janaru,janaru@hot.ee,tervis
 1092,p.a.,pastill@kolumbus.fi,nakkisoppa
@@ -270,7 +270,7 @@
 1270,Karille,karille@hot.ee,kalamari
 1275,Maxsi,elli.tallo@mail.ee,liiband
 1277,tammearu,tonijuhani@hot.ee,tonijuhani
-1280,eve \xfctt,Eve2011@hot.ee,kase
+1280,eve ütt,Eve2011@hot.ee,kase
 1287,maretme,maretme@hot.ee,sekret
 1289,bibi,eda.adamson@mail.ee,saladus
 1294,bono,annamarialaak@hot.ee,oskar
@@ -328,7 +328,7 @@
 1580,marfa,aigi.laidvere@mail.ee,deimos
 1593,jaanalliksoo,jaanalliksoo@hot.ee,280892
 1599,anupere,anupere@hot.ee,susanna
-1602,nopper,nopper@hot.ee,r\xf6stsai
+1602,nopper,nopper@hot.ee,röstsai
 1605,lekian,olga.prits@mail.ee,jeesus
 1606,ITSREK,jannokad@hot.ee,PUSSA
 1607,Elevants,kloostri@kodu.ee,regina
@@ -458,7 +458,7 @@
 2187,veranii,veranii@hot.ee,office
 2188,inulka,ynared@gmail.com,lill53
 2197,Annika,a443@hot.ee,tobias1
-2199,lailasaareke,lailasaareke@hot.ee,l\xfchike164
+2199,lailasaareke,lailasaareke@hot.ee,lühike164
 2204,margitke,margitke@hot.ee,viola
 2213,aigars,aigars44@hotmail.com,Kasut2ja1
 2215,eleonora,eleonora@lavesta.ee,eleonora
@@ -475,7 +475,7 @@
 2275,MI,milvimursal@hot.ee,maa
 2277,TAVKIN,tatjana.veiler@mail.ee,monza1953
 2280,ursus,ursulamaibak@hot.ee,mustang
-2282,astrid,astrid.lusti@thulema.ee,p\xe4rn
+2282,astrid,astrid.lusti@thulema.ee,pärn
 2283,kurase,heli1204@hot.ee,kihnurand
 2284,annesvirgsden,annesvirgsden@hot.ee,mammulissi
 2285,Aiaotsa,hempel@hot.ee,mALLE-pILVI
@@ -504,10 +504,10 @@
 2351,eeva1,anne300@hot.ee,koer
 2357,Suusi,moldritaimi@hot.ee,taimed
 2358,sirje metsmaker,mesirje@hot.ee,klaabu
-2359,t\xe4heke,savimees@hotmail.com,9307
+2359,täheke,savimees@hotmail.com,9307
 2371,karukell,Ruth.Rahumeel@maaamet.ee,karukell
 2372,apensiil,annely.ahse@nasdaqomx.com,paikesai
-2373,K\xe4tlin,katlin.haav@salva.ee,kreisi01
+2373,Kätlin,katlin.haav@salva.ee,kreisi01
 2376,klebs50,kersti.sildnik@mail.ee,16253649
 2378,kaiamaia,kjust@hot.ee,armastus
 2386,Likos,liia23@hot.ee,slalii
@@ -530,7 +530,7 @@
 2441,controll,luik_753@hotmail.com,lennuk
 2442,Slli,sirje.salli@mail.ee,paasuke
 2446,lindali,reet.alev@wmdata.com,keibu1992
-2447,Sunwalk o\xfc,info@sunwalk.ee,Sunwalk
+2447,Sunwalk oü,info@sunwalk.ee,Sunwalk
 2450,keerman,Viktoria.keerman@mail.ee,050278
 2451,kirs01,kirsti.virak@mail.ee,Sipsik01
 2462,virkliisu,duesenberg@hot.ee,minnihiir
@@ -547,7 +547,7 @@
 2497,mairutsik,mairi.kell@mail.ee,maasikas
 2501,seemneke,mlsarapuu@hot.ee,Sarapuu01
 2502,imbi,imbi.pakker@mail.ee,rekkap
-2503,MARJE V\xc4LBE,eist.veod@mail.ee,252525
+2503,MARJE VÄLBE,eist.veod@mail.ee,252525
 2504,svetikuke,svetlana.mitt@mail.ee,99999
 2507,eve labi,evelabi@hot.ee,laibu
 2512,cray,timmys@hot.ee,Saar019862
@@ -600,7 +600,7 @@
 2680,helna,helna@hot.ee,9112299
 2681,estervosu,estervosu@yahoo.com,semiootik
 2691,Lepna,kristi.maasik.002@mail.ee,12345
-2694,H-M P\xc4HKLAM\xc4GI,hille-mai@kardinal.ee,ERKI
+2694,H-M PÄHKLAMÄGI,hille-mai@kardinal.ee,ERKI
 2703,Katre,katre.katre@mail.ee,100202
 2704,Lucie,mila@stv.ee,mila
 2711,darlene,evelitoom@hot.ee,tobuke
@@ -623,7 +623,7 @@
 2804,ljudmilai,ljudmilai@hot.ee,evgeniji
 2808,Helje,helje.lohmus@gmail.com,Urmas
 2812,luulest,luulest@gmail.com,mesindus
-2813,Sirje V\xe4li,sirjevali@hot.ee,aruotsa
+2813,Sirje Väli,sirjevali@hot.ee,aruotsa
 2815,henriks,ulvikask@hotmail.com,maguskaru
 2818,helbesillaste,helbesillaste@hot.ee,helbes
 2820,kootar,novaera@list.ru,125700
@@ -637,13 +637,13 @@
 2850,aulike,tammer16@hot.ee,kelder
 2851,Laid-Juta,juta.laid@mail.ee,laid
 2853,libevana,libevana@hot.ee,0478
-2855,P\xe4ike,kanaro@hot.ee,Torremol
+2855,Päike,kanaro@hot.ee,Torremol
 2859,EVITA,evi.reinsalu@bk.ru,EMA125
 2861,aiveli,aiveli@mail.ee,tiiger
 2865,HelveHaas,Viiripiim@hot.ee,Reheselja
 2867,supmok,vika74@hot.ee,vika74
-2869,margis,margis.kerner@mail.ee,lillet\xe4di
-2871,t\xe4pi,heli.urmann@emta.ee,230994
+2869,margis,margis.kerner@mail.ee,lilletädi
+2871,täpi,heli.urmann@emta.ee,230994
 2872,ellip,pille.trepp@mail.ee,eppuke
 2875,aivs,aive66@ut.ee,l5811ea
 2877,jull,julikak@hot.ee,dooraa
@@ -665,7 +665,7 @@
 2954,AnPi,pirjo.anttila1@kolumbus.fi,freeloader
 2961,krisham,kristiina_mand@yahoo.co.uk,kaspar14
 2962,claudia,Soova@hot.ee,sova
-2967,P\xe4kula,savimees@hotmail.com,Joosep
+2967,Päkula,savimees@hotmail.com,Joosep
 2975,elle4030,elle4030@hot.ee,300740
 2982,anasko,oxy@fr.ee,parool
 2989,ventmarin,ventmarin@free.fr,44clclcl
@@ -686,7 +686,7 @@
 3042,jogismaa,kristi.jogismaa.001@mail.ee,street
 3043,Aurika,aurikapestova@mail.ru,akirua
 3051,anni,mer567@hot.ee,merka
-3052,aiaf\xe4n,tax101@hot.ee,kaktus
+3052,aiafän,tax101@hot.ee,kaktus
 3053,heleri,heleri.jarvpold@mail.ee,eerohe
 3062,aednik2,emaeha@hot.ee,prints
 3064,sintsinella,exelise@hot.ee,ismail
@@ -718,7 +718,7 @@
 3173,Tolkku,eeva-maija.sovero-syvapaa@pp.inet.fi,kerttulerttu
 3177,tegija,maandus007@hot.ee,saladus
 3180,MarianneMa,eivotiimus@hot.ee,Audova
-3184,Sirje V\xe4li,sirjevali@hot.ee,aruotsa
+3184,Sirje Väli,sirjevali@hot.ee,aruotsa
 3187,angoora,annika.roogna@mail.ee,roogna
 3194,painter,alyonab@list.ru,barsik
 3200,Trollius,post@asphaugen.com,ircuticus
@@ -743,7 +743,7 @@
 3258,allike36,allike36@hot.ee,tilluke36
 3271,Elles,elle345@hot.ee,uus3639
 3275,tinka12,tinka12@hot.ee,siidon
-3276,P\xe4hkin\xe4,ppahkinarinne@dnainternet.net,kaarlo98
+3276,Pähkinä,ppahkinarinne@dnainternet.net,kaarlo98
 3286,Maritalu,merikekoivistoinen@hot.ee,Krifiti
 3288,kmoisar,kmoisar@gmail.com,heakaup
 3289,primula,shorn52@yahoo.no,karloskar
@@ -771,7 +771,7 @@
 3346,nÅ‘ges,eha.soo.001@mail.ee,lapsed
 3347,Vaike,vaike.kolju@mail.ee,roos
 3350,pjq,pjquilty@hotmail.com,2020
-3352,p\xe4takas,merlyta@hot.ee,Kasemetsa
+3352,pätakas,merlyta@hot.ee,Kasemetsa
 3353,piison,ylle.mandla@mail.ee,jule
 3356,loora,Loora.Leinberg@mail.ee,armastus
 3361,moonpride,westet@hot.ee,niceone
@@ -820,9 +820,9 @@
 3500,margeall,marge.allik.001@mail.ee,koll
 3505,marikamit,marikamit@hot.ee,Calibra1
 3508,iwyarro,iwy.arro@mail.ee,karros
-3511,K\xf6\xf6gikata,kadriprants@hot.ee,katakas
+3511,Köögikata,kadriprants@hot.ee,katakas
 3514,nellisanne,nellisanne@hot.ee,saatus
-3515,Liivi M\xf6lder,liivimix@hot.ee,liim65
+3515,Liivi Mölder,liivimix@hot.ee,liim65
 3517,Olesja,olesja.volkova@ut.ee,volkova
 3519,tiivikukk,tiivi.kukk@emt.ee,Katy14066
 3522,mashurik,mashurik@gmail.com,mardikas01
@@ -838,7 +838,7 @@
 3556,Jelena76,elena_ille@mail.ru,260299
 3557,signesaadjarv,signe.saadjarv@mail.ee,saadjarv
 3558,marin,siiri@ortopeediaarstid.ee,konna
-3565,pohjant\xe4hti,mirja.klemi@luukku.com,durogesic
+3565,pohjantähti,mirja.klemi@luukku.com,durogesic
 3567,liidi62,liidi62@hot.ee,lillon
 3568,marixi,marixi@hot.ee,ingliina
 3572,Ana,ana@kmg.tartu.ee,suslik
@@ -958,7 +958,7 @@
 3951,mikael,mikael.oscarsson@bornet.net,cmo123
 3959,waher,maret.vaher@mail.ee,torra
 3971,legma,mai.legovits@hotmail.com,legmake
-3972,elvekas,elve.nogene@mail.ee,eiprik\xfcla
+3972,elvekas,elve.nogene@mail.ee,eipriküla
 3977,riisike,merje.kiitsak@mail.ee,tammiste
 3978,BMW56,anne.p@trt.ee,flatron
 3981,marely,tv7@hot.ee,Unistus7
@@ -1007,7 +1007,7 @@
 4066,fmarinus,fmarinus@hot.ee,joska123
 4067,hecate,hecate@solo.delfi.ee,godtogod
 4068,kaisi,siivelt@gmail.com,lotta
-4070,helis,heli.sikka.001@mail.ee,r\xfc\xfcson
+4070,helis,heli.sikka.001@mail.ee,rüüson
 4072,ursula,ursula@toonuspluss.ee,urka
 4073,hissu,hille.nau@mail.ee,42414241
 4074,moos,artur5555@hot.ee,mamm
@@ -1126,7 +1126,7 @@
 4240,claabu,klaus@bell.ee,fokker
 4242,Kastan,monika.vasmann@ekk.edu.ee,Kastan4
 4246,Johanna,kerstikolk@hot.ee,JohannaKask
-4247,aidi,aidi.molder@he.ee,m\xf6lder
+4247,aidi,aidi.molder@he.ee,mölder
 4248,lia kirotar,liakirotar@hot.ee,300300
 4250,sirts250,sirje.magi.001@mail.ee,panda25
 4251,thememory26,piret.allvee@windowslive.com,mihkel
@@ -1156,7 +1156,7 @@
 4289,liih,liiheinola@hot.ee,parool
 4293,Heli1,heli@balticfibres.ee,Eigi
 4294,konnake,ireene@olmen.net,signe
-4295,tsipi,saluvere@yahoo.com,p\xfchap\xe4ev
+4295,tsipi,saluvere@yahoo.com,pühapäev
 4296,ainoke12,ainoke12@hot.ee,Ainokahu1
 4297,karuott,a30318@ut.ee,karukaka
 4298,mallekodu,malle1968@hot.ee,Linnas
@@ -1197,7 +1197,7 @@
 4357,teimann,auustalo@hot.ee,elisabeth
 4359,murlu,merle.tammeorg@gmail.com,a136k54
 4361,Neubauer,mari-liis.neubauer@mail.ee,kosmos
-4362,hille,HILLE.SULU@MAIL.EE,p\xfcsililled
+4362,hille,HILLE.SULU@MAIL.EE,püsililled
 4363,kristiil,kristi.ilves@mail.ee,tipsu18
 4364,Madalena,t64-a@inbox.lv,henaro
 4365,llaube,llaube@hot.ee,140456
@@ -1220,7 +1220,7 @@
 4395,siimone,ene.langi.001@mail.ee,kassike
 4396,talvi,talvi@hot.ee,kuller
 4397,klillepuu,klillepuu@hot.ee,180377
-4399,K\xfclli Kuus,raks25@hot.ee,statistik1
+4399,Külli Kuus,raks25@hot.ee,statistik1
 4400,Svetlana Gorbatsova,svg888@list.ru,dao888
 4401,elmar,elmar@east.ee,elmar
 4402,DAISY,daisy66@hot.ee,KULL
@@ -1312,7 +1312,7 @@
 4528,gerbera,leaaljas@gmail.com,pimuke
 4529,eve32,evelin.luik.004@mail.ee,luik
 4530,mareree,reemare@hot.ee,manivald
-4531,rita tuulm\xe4gi,rita1964@hot.ee,78243
+4531,rita tuulmägi,rita1964@hot.ee,78243
 4532,mouser,mouser@hot.ee,bly88tw
 4533,murutriin,anfiza.murumaa@mail.ee,karu
 4535,paimi,paimi@hot.ee,00Tore9
@@ -1324,7 +1324,7 @@
 4543,priimula,marge.mets.001@mail.ee,kevadlill
 4544,tibikam,tibikam@hot.ee,liblikas1
 4545,aveanu,aveanu@hot.ee,maasikas
-4547,Mugra,laine.mugra@mail.ee,amat\xf6\xf6r
+4547,Mugra,laine.mugra@mail.ee,amatöör
 4548,kersti1966,kerstisoonsein@hot.ee,kersti
 4549,karin2,karin.oljo@mail.ee,722806
 4551,manni,monika.jyrgenson@tvesi.ee,maasikas
@@ -1367,7 +1367,7 @@
 4613,Puhastaja,hillar.kyttim@mail.ee,Kuningas
 4614,yllekas7,yllekas7@hot.ee,lillekas
 4615,Lina83,lina3b@yahoo.com,zxcvbnm
-4616,tiinakruusim\xe4gi,tiinakruusimagi@hot.ee,tiit78
+4616,tiinakruusimägi,tiinakruusimagi@hot.ee,tiit78
 4617,zinuga,zinuga@hot.ee,liisake
 4621,ali,luule.elbra@mail.ee,punapea
 4622,kirbits,amt9866@solo.ee,martin
@@ -1417,15 +1417,15 @@
 4692,zozole132,zozole132@inbox.lv,aleluja
 4693,Aare,aare1986@hot.ee,19860317
 4694,Iwonna,logtriv@tin.it,kamaorka
-4695,m\xfc\xfca99,kevinkalle@hot.ee,kristina1997
+4695,müüa99,kevinkalle@hot.ee,kristina1997
 4696,Hilda,hillekilk@gmail.com,eitaha
 4697,ep,postene@hot.ee,tartu
 4699,acer,aivarsaatmann@hot.ee,sorbus
 4700,liilis,lii.liisveld@alajoevv ee,kaks
 4702,Reidar Larsson,reidar.larsson@hem.utfors.se,Vendel
-4703,P\xe4rta,Ene.Lillevalja@mail.ee,p\xe4rta
+4703,Pärta,Ene.Lillevalja@mail.ee,pärta
 4704,kyllikefrolov,kyllikerikko@hot.ee,kapsauss
-4705,T\xe4hdikki,lea.sihvola@gmail.com,112pena
+4705,Tähdikki,lea.sihvola@gmail.com,112pena
 4706,lepaliisa,ylle.jarv@gmail.com,siilike25
 4708,kybaramoor2,kybbaramoor2@hot.ee,141962
 4711,Netti_88,minimysangirl@hotmail.com,Daniel
@@ -1441,12 +1441,12 @@
 4726,epiir,arlekiin1@hot.ee,landoora
 4727,krokvik,kent.egner@affv.nu,cellon3
 4728,statrt,savimees@hotmail.com,joosep
-4729,Aino Allikm\xe4e,puudub,onia
+4729,Aino Allikmäe,puudub,onia
 4730,Pireto,piret.oper@mail.ee,sipsik
 4731,arvydas,arvltz@gmail.com,arvltz
 4732,dianamee,diana.meerits@mail.ee,2505
 4735,veikko44,veikkovunk@hot.ee,siilike
-4737,k\xf6ster,kagitalu@hot.ee,titimiti
+4737,köster,kagitalu@hot.ee,titimiti
 4739,snezok,snezokk@ya.ru,18451845
 4742,ikxs,janek.nozdrenko@just.ee,chieftec
 4744,orts,mairo.orle@gmail.com,vilma
@@ -1498,7 +1498,7 @@
 4824,elga,gerassimovao@mail.ru,030368
 4825,anq,angeelika_s@hotmail.com,annisepp
 4826,moidites,heidi.koivula@gmail.com,weppi222
-4827,m\xe4givalve,kreete1@hot.ee,m\xe4gi
+4827,mägivalve,kreete1@hot.ee,mägi
 4828,hille999,hille.vork@magnum.ee,sandertoma
 4830,muska,rhl@hot.ee,aksum
 4831,lulli,liimorell@hot.ee,diamond
@@ -1579,7 +1579,7 @@
 4922,leas,lea.sudakova@mail.ee,leas
 4923,kaire67,kaire.lihtsa@.mail.ee,haus
 4924,macfire,macfire3@hot.ee,thuglife
-4925,botaed1803,zhanna.politsinski@ut.ee,\xfclikool
+4925,botaed1803,zhanna.politsinski@ut.ee,ülikool
 4926,sirje55,sirje.kivilaan@mail.ee,SUUSI
 4927,kurk,ylle.viira@mail.ee,tomat
 4928,Airi Musto,airi.musto@elisanet.fi,musvana
@@ -1600,7 +1600,7 @@
 4945,pisu,pisuhand@gmail.com,Kasispea1
 4946,maria100,maria@mariaw.cjb.net,blablabla
 4948,jurga24,jurgita@santera.lt,cirienes
-4950,Lembi M\xe4ngel,lembi@kmet.ee,kaur
+4950,Lembi Mängel,lembi@kmet.ee,kaur
 4951,klairia,riinamyyrsepp@hot.ee,maa
 4952,Mardim,mare.mardim@gmail.com,ruus
 4953,KESAKAS,airi.elur@post.ee,RASMUS
@@ -1614,7 +1614,7 @@
 4964,ilmeai,reinaim@hot.ee,il3105
 4965,A190154,helle357@hot.ee,liilia
 4966,feder,kiem_2000@gmx.de,kiel
-4967,kailinis,kaili.nisu@mail.ee,g\xfcnther
+4967,kailinis,kaili.nisu@mail.ee,günther
 4968,Jelena T,aljonuska@hotmail.com,123456
 4969,muhhin,kart.tigavas@hot.ee,Tellimine1
 4970,juliav,aprilly@hot.ee,juuska
@@ -1633,7 +1633,7 @@
 4985,pooliku,poolik@hot.ee,Vedur123
 4986,ants1313,annely.petritch@gmail.com,ants1313
 4987,soomsalu,soomsalu@hot.ee,pent11
-4988,taimi hanim\xe4gi,taimihanimagi@hot.ee,Binokkel1
+4988,taimi hanimägi,taimihanimagi@hot.ee,Binokkel1
 4989,julia@aripaev.ee,julia@aripaev.ee,kaheksa
 4990,Silene,monbjo.gh@telia.com,mon8bjo
 4994,Anne Palmsaar,anne431@hot.ee,ohakas
@@ -1690,7 +1690,7 @@
 5053,Lilith,natalja.pronina@mail.ee,balsamiin1
 5054,greete14,greete06@hotmail.com,123456
 5055,Marianne BildtgÄºrd-B,bolin@telia.com,valbo
-5056,Valbov\xe4xt,marianne.bolin@telia.com,Marianne
+5056,Valboväxt,marianne.bolin@telia.com,Marianne
 5057,MustBlondiin,janely001@hot.ee,kapsauss
 5058,jaamamerje,jaamamerje@hot.ee,jaama11
 5059,Svenska,sven@taastuvenergia.ee,Svenska7836
@@ -1767,7 +1767,7 @@
 5136,rajapere,Annimaria123@hot.ee,rajapere
 5137,kallas79,VIKTORIA.KALLAS@MAIL.EE,15501776
 5138,sturm,sveta@fortem.ee,vika
-5139,Maret Noodla,maretnoodla@hot.ee,h\xe4rma
+5139,Maret Noodla,maretnoodla@hot.ee,härma
 5140,margittali,margittali@hotmail.com,tigram
 5141,Tiina40,vinske@hot.ee,T1967dets
 5142,linnu,reelikalindre@hot.ee,lindre
@@ -1807,7 +1807,7 @@
 5183,julia_kostareva,pileja77@list.ru,090853
 5185,MArjut,marjut.tuominen@katepal.fi,3230
 5186,Merrukad,Vivian.Leetberg@nordea.com,Leetberg1
-5187,n\xf6psu,kersti.susi@gmail.com,margus
+5187,nöpsu,kersti.susi@gmail.com,margus
 5189,tiina nurmsaar,tiinanurmsaar@hot.ee,aniit
 5190,klli62,kylli.laur.003@mail.ee,ki0701
 5191,ohakas,ylle@kolm.ee,marjaket
@@ -2050,7 +2050,7 @@
 5472,Siil,situderna@savikoja.ee,lilled1
 5473,laura333,laura.siland@mail.ee,xs1ars
 5474,lumumba,raadik@hot.ee,12raadik3412
-5475,Kannike,koidula.liivam\xe4gi@hot.ee,nelk
+5475,Kannike,koidula.liivamägi@hot.ee,nelk
 5476,asta19,asta@laiusepk.edu.ee,Kuusepuu1
 5477,tonisliiber,tonis.liiber@mail.ee,56647203
 5478,Oie,oie@karus.org,Å‘is
@@ -2104,7 +2104,7 @@
 5533,maasikmari,kristina.suits@mail.ee,murlis
 5534,phnevely,evelyn.pahn.001@mail.ee,kixers
 5535,Altmart,egealtmart@hot.ee,Janes33
-5536,piret m\xe4esepp,piretmaesepp@rlk.ee,ataman
+5536,piret mäesepp,piretmaesepp@rlk.ee,ataman
 5538,urves,urvesalundi@hotmail.com,pallike
 5539,irisav.61,irisav.61@mail.ru,irasa5
 5540,tiiuv,tiiu.xyxy@mail.ee,kala77
@@ -2150,7 +2150,7 @@
 5584,marinajelle,marinajelle@hot.ee,Marikirss15
 5585,magnolija98,kristine.martinenko@volvo.com,fitnes
 5586,Poupee,kati01@hot.ee,ktuisk
-5587,j\xe4rv,soosaare@hot.ee,lajassaare
+5587,järv,soosaare@hot.ee,lajassaare
 5588,helima,heli.madissoon@mail.ee,jorjen
 5590,michafreyer,michafreyer@yahoo.de,tabbi21
 5591,irina23,irina23@hot.ee,irina23
@@ -2183,7 +2183,7 @@
 5624,agepo,agepo@hot.ee,agepork
 5625,Tituk,merike@markoil.ee,merike
 5626,jelenada,jelenada@hot.ee,primula
-5627,MAIMU,liivib @hot.ee,rohen\xe4pp
+5627,MAIMU,liivib @hot.ee,rohenäpp
 5628,Roza,mikk@freemail.ru,030961
 5629,Ener,eneraig@frens.ee,kajaelo
 5630,rikitar,rikitar@hot.ee,scorpio
@@ -2393,7 +2393,7 @@
 5868,kay,kai.spitson@mail.ee,terehommikust
 5869,aliis26,alisa.kusnetski@mail.ee,imedemaa
 5870,Kats24,barbarita17@hot.ee,kallisharlis
-5872,ojam\xe4e,ulle.ojamae@tta.ee,alderisland
+5872,ojamäe,ulle.ojamae@tta.ee,alderisland
 5873,killandi,poissgm@gmail.com,poisss
 5874,ylle1207,ylle1207@hot.ee,sakala
 5875,mustilu,mustilu@hot.ee,elanule
@@ -2455,7 +2455,7 @@
 5944,Ljubov Razumova,razlv@hot.ee,660425
 5946,keily,sjalasto@hot.ee,gerd
 5947,isepp,ilme@lib.haapsalu.ee,Ilmeke1
-5948,p\xe4rdik,ivar.raja@mail.ee,lennuk
+5948,pärdik,ivar.raja@mail.ee,lennuk
 5949,krist1487,kristina.holst@mail.ee,kristi
 5950,hordeumjubatum,irisekraam@gmail.com,kanakaka
 5952,anniurb,anni.urb@hot.ee,juliuss
@@ -2463,7 +2463,7 @@
 5955,ansela,ansela@hot.ee,anselake1
 5956,edgar,edgarkolts@hot.ee,tiina
 5957,Liisa Knuut,liisa006@hot.ee,Kokaiin
-5958,k\xe4bi,beesting@hot.ee,n\xf6ps
+5958,käbi,beesting@hot.ee,nöps
 5959,lembit05,lembit05@hot.ee,vabana
 5960,rannakass,kakkum21@hot.ee,marulla
 5962,eloo,eloo@hot.ee,remmel
@@ -2508,7 +2508,7 @@
 6009,luha30,smigols@hot.ee,6481259
 6010,sturm svetlana,sveta@fortem.ee,TALLINN
 6011,janicka,janicka@hot.ee,Saaretik45
-6013,p\xe4ikseke,marlen2@hot.ee,lepakas
+6013,päikseke,marlen2@hot.ee,lepakas
 6014,Guulja,guulja@solo.ee,123456
 6015,crazycat29,crazycat29@hot.ee,Hiiglane1
 6018,Sinilaan,kristi.sinilaan@mail.ee,kristi
@@ -2526,7 +2526,7 @@
 6032,riina22,riina.lainela22@hotmail.com,2202aniir
 6034,enee,Ene.Promvalds@hansa.ee,prints
 6036,juku6,juku.koiv@levira.ee,y2k8uV01
-6038,m\xe4nnik,tiina.mannik.002@mail.ee,priiduke
+6038,männik,tiina.mannik.002@mail.ee,priiduke
 6039,aljona.07,aljona.07@list.ru,111974
 6040,muzaerika,muzaerika@hot.ee,erikaoma
 6042,barry2104,barry@hot.ee,carmen
@@ -2695,7 +2695,7 @@
 6228,erikakoks,erikakoks@hot.ee,tarkus
 6229,Brunhild,riitta.fjellhaug-ojala@luukku.com,Brunea
 6230,evakas,eva@dioneva.ee,323327
-6231,MarjaMyll\xf6,marja.myllo@suomi24.fi,18061971
+6231,MarjaMyllö,marja.myllo@suomi24.fi,18061971
 6232,Stig1989,stig1989@hot.ee,pirnike22
 6233,viisakas,annikaodes@hot.ee,matilda
 6234,meememee,mehiss@hot.ee,mehka1
@@ -2737,7 +2737,7 @@
 6278,ondatra,ondatra@gmx.de,101154
 6279,plavusa,mahobe40@gmail.com,vmjm2112
 6280,natalilutsenko,natalilutsenko@gmail.com,centrino7
-6281,tiismus,j\xfcri.tiismus@gmail.com,miki
+6281,tiismus,jüri.tiismus@gmail.com,miki
 6282,anra501,annikarafstedt@hotmail.com,Vecka3
 6283,ally56,ally56@hot.ee,ferschel
 6284,amaarja,maarja117@hotmail.com,ramses
@@ -2780,7 +2780,7 @@
 6326,odlare1,l-e.andersson-vik@telia.com,1flipp
 6328,tigi,sallijarve@hot.ee,pussakas
 6329,evi,evi.ilves@mail.ee,berta
-6330,sillam\xe4e,tiina.sillamae@gmail.com,tiina
+6330,sillamäe,tiina.sillamae@gmail.com,tiina
 6331,kratu23,kratu23@hot.ee,Maasikas1
 6332,marikahe,marikahe@hotmail.com,terekool
 6333,Madisx,madisx@vykk.vil.ee,saibaba
@@ -2824,7 +2824,7 @@
 6380,reetreet,kaupo.kalev@iss.ee,reetkalev
 6381,saardeehitus,elle@seg.ee,ellehaas
 6383,Liisukka,liisa.laakso@elisanet.fi,joniboy
-6384,v\xe4lke,anna.punamaki@gmail.com,pomona
+6384,välke,anna.punamaki@gmail.com,pomona
 6385,marealnek,mammuke17@hot.ee,10luisa
 6386,jelenarei,jelenarei@mail.ru,994500
 6387,riinatuominen,riina.tuominen@saunalahti.fi,stenkku
@@ -2903,7 +2903,7 @@
 6477,eva,TÄ‘iÅ£ikova,brett
 6478,harri,harri@ultrasoft.ee,kitarr
 6480,Pinkelton,saibot_@telia.com,darkness
-6481,k\xe4rt,elmovendla@hot.ee,pobi
+6481,kärt,elmovendla@hot.ee,pobi
 6482,marieolausson,marie-olausson@telia.com,sigrid56
 6483,katiaas,katrin.aasmae@mail.ee,business
 6484,Passiflora,carina.ahlskog@netikka.fi,grallan09
@@ -2958,7 +2958,7 @@
 6541,liinet,liina.jarviste@enut.ee,Kass22
 6542,annika74,gateway5@hot.ee,34lammast
 6543,mafalda,eeva.h.k.tuominen@gmail.com,puutarha
-6544,m\xe4kinen,zirpa@elisanet.fi,25254325
+6544,mäkinen,zirpa@elisanet.fi,25254325
 6545,kalur,evioovel@hotmail.com,kandle
 6546,Raticate,mia.valtonen@hotmail.com,pilleri
 6547,Lissike,ylari555@hotmail.com,tannike
@@ -3001,7 +3001,7 @@
 6592,Riha,smirnova.irina@mail.ee,antares
 6593,suvis,silviluik@hot.ee,saatus
 6594,evimai,sanelmittal@gmail.com,mittal
-6595,usin,virkliisu@hot.ee,t\xf6\xf6kus
+6595,usin,virkliisu@hot.ee,töökus
 6596,siiri heinmaa,ivarh@smail.ee,sirmik
 6597,Margarita,info@arugrupp.ee,fredijaluise
 6598,hilkkako@gmail.fi,hilkkako@gmail.fi,0407
@@ -3056,7 +3056,7 @@
 6651,fie  svetlana petrov,veta.c@bk.ru,banj
 6652,fie  svetlana petrov,sve5508@jandeks.ru,banj
 6654,natvis,natvis@gmail.com,vennike
-6655,Monica \xc4ij\xe4l\xe4,monica.aijala@suniplan.fi,Hesmo
+6655,Monica Äijälä,monica.aijala@suniplan.fi,Hesmo
 6656,kivikyngas,kivikyngas@hot.ee,mardo
 6657,laineu,laineu.uggur@kliinikum.ee,avemaria
 6658,naati,tn.design@kustavi.net,naatia
@@ -3085,7 +3085,7 @@
 6685,Liiske,liis.vaik@bauhof.ee,T1aara
 6687,skif2,sigrid.kerna.001@mail.ee,pepekas
 6689,mitt,kristimitt2@hotmail.com,krisskross
-6690,V\xc4LJAP\xd5HI, temis@hot.ee,KAUP
+6690,VÄLJAPÕHI, temis@hot.ee,KAUP
 6691,gipsofila,galina.64@mail.ru,sem6741459
 6692,paha,annika.liivak@gmail.com,dojo12
 6693,juha-68,jkarhu@netikka.fi,juhatapanikarhu
@@ -3113,7 +3113,7 @@
 6717,reroos,reroos@hot.ee,turklane
 6718,kasepuu,merlek8@hot.ee,reelika
 6719,sajoha,satu.yrjola@kolumbus.fi,rullat
-6720,hedvig,yllewell@gmail.ee,m\xe4nnik
+6720,hedvig,yllewell@gmail.ee,männik
 6721,Annelikene,randlaanneli@hotmail.com,randlaa
 6722,kellari,p.marjanen@luukku.com,suuli
 6723,kairi251,rosina@hot.ee,K6kkss
@@ -3164,7 +3164,7 @@
 6775,irina4,irina_archenkova@yahoo.com,140652
 6776,katri3,sulev.kivilaan@mail.ee,kaktus
 6777,emer04,marju.roosileht@mail.ee,murakas
-6778,lehis,tiinaleesik@hot.ee,k\xe4bi
+6778,lehis,tiinaleesik@hot.ee,käbi
 6779,Ann C. Lindeman,finngrundet@netikka.fi,lassemaja
 6782,jelenaaljona,jelenaaljona@gmail.com,rastim
 6783,pille_j,pille_j@yahoo.com,margus
@@ -3233,7 +3233,7 @@
 6859,helvele,helvele@hot.ee,kannike
 6860,okay13,Mall.kolju@emta.ee,kaarel
 6862,AIIT,pillej@hotmail.com,pillej
-6863,Liivi Liivam\xe4gi,liivimix@hot.ee,liisu
+6863,Liivi Liivamägi,liivimix@hot.ee,liisu
 6864,KIKUKE,evelyn.pahn.001@mail.ee,KIXERS
 6865,kassu86,titta.saarnio@hushmail.com,titta79
 6866,Fiekaja,Fiekaja@hot.ee,unetu
@@ -3243,7 +3243,7 @@
 6871,liisasa,liisasahlsten@gmail.com,lilli55
 6872,EleriL,eleri.laidma@emu.ee,Petu77
 6873,tanjaliini,tanja.hussi@hus.fi,Arthur
-6874,sveta30,sveta111@hot.ee,g\xe4tliin
+6874,sveta30,sveta111@hot.ee,gätliin
 6875,cessuke,cessuce@hot.ee,cerlyke
 6876,Emailman,emil.sandin@gmail.com,giraff2
 6877,masaturp,matti_turpeinen@yahoo.se,molson
@@ -3264,10 +3264,10 @@
 6895,Marjaterttu,anneli.salmi@pp.inet.fi,Nunneli
 6896,vungik,vungik@hotmail.com,essutaja
 6899,minzku,minja.laaperi@luukku.com,pertti77
-6900,gorw,fruskilaz@hotmail.com,fl\xf6jtbananer
+6900,gorw,fruskilaz@hotmail.com,flöjtbananer
 6901,Irina 2,Vqshegorod_Irina@mail.ru,5143147
 6902,veedraakon,pille@sirowa.ee,aprill
-6903,j\xe4nks j\xe4nku,siiri.eibak@mail.ee,lovi
+6903,jänks jänku,siiri.eibak@mail.ee,lovi
 6904,kass,airekarro@hotmail.com,kristjan
 6905,den1976,den1976@list.ru,50685068
 6906,DANIEL,kaire.kaurdaniel@mail.ee,TRIINA
@@ -3299,7 +3299,7 @@
 6935,marin66,mdslavei@abv.bg,16051966
 6936,annaroose,seemansveta@yahoo.com,kevad1
 6937,janat,jana.trolla@gmail.com,katariina1
-6938,Tiina Linam\xe4gi,inglisterk@hot.ee,Vellosong
+6938,Tiina Linamägi,inglisterk@hot.ee,Vellosong
 6939,anlahte,anlahte@utu.fi,anne69
 6940,annmlt,annmlt@hot.ee,11122000
 6941,Tein,oie.tein@arvutid.ee,Tein
@@ -3312,8 +3312,8 @@
 6949,sirjeke,sirje.teder@mail.ee,lapsed
 6950,hanna.keljo,hanna.keljo@suomi24.fi,ramu7has
 6952,florinda,jeremiia@hot.ee,jeremiia
-6953,viharri,virve.koiksoon@mail.ee,j\xe4tee
-6954,harrivi,virve.koiksoon@mail.ee,j\xe4tee
+6953,viharri,virve.koiksoon@mail.ee,jätee
+6954,harrivi,virve.koiksoon@mail.ee,jätee
 6955,annelpe,anneli.perm@kliinikum.ee,1986
 6956,sarbri,britt.sarin@spray.se,allimac
 6957,hyyd,hyyd@hot.ee,limonaad
@@ -3349,7 +3349,7 @@
 6989,tiiamiia,tiia.kiho@mail.ee,miiamiia
 6990,tuhy,tuula.hyvonen@wippies.fi,marke
 6994,andrusmee,andrusmesipuu@hot.ee,kersti
-6995,T\xe4di Eevi,kadri.sundja@gmail.com,kadaeevi
+6995,Tädi Eevi,kadri.sundja@gmail.com,kadaeevi
 6997,erty,eilart@hot.ee,erty
 6998,irinag65,irinag65@rambler.ru,14071965
 7000,j4hein,j4hein@hot.ee,eluaegne
@@ -3360,11 +3360,11 @@
 7005,marikekruup,Anne.Kruup@mail.ee,marikekruup16
 7006,emuxxx,modesta_milasiute@yahoo.com,monikiux
 7007,GRENA,lullo@hot.ee,111327
-7008,kriimsilm07,aivar.kaljuste@mail.ee,\xe4rps
+7008,kriimsilm07,aivar.kaljuste@mail.ee,ärps
 7009,ajak,kairo.eevel.001@mail.ee,era123
 7010,helikivilo,heli.kivilo@mail.ee,iraida
 7011,joorgen,merelle.metsoja@mail.ee,maria
-7012,merge,merge.molder@mail.ee,\xf6\xf6viiul
+7012,merge,merge.molder@mail.ee,ööviiul
 7013,ainomati,merle.oun@gmail.com,ammer
 7014,riini,sirje.pauskar@hariduskeskus.ee,riinix
 7015,trillian2,pia.carreman@telia.com,moonstar8
@@ -3407,7 +3407,7 @@
 7053,sturman,aihrana@gmail.com,lepatriinu
 7054,Annabel,margi@kesk.ee,Meribel
 7055,marju27,marju2@hot.ee,mariliis
-7056,k\xfcbar,sirje.kuuskmann@mail.ee,lilled
+7056,kübar,sirje.kuuskmann@mail.ee,lilled
 7057,VIGDIS ALSOS,VIGDIS.ALSOS@C2I.NET,jasmin
 7058,iagal,iagal@mail.ru,25925714
 7059,riittaainali,riittaainali@hotmail.com,kirreli
@@ -3430,7 +3430,7 @@
 7079,helala,helen.alavere@gmail.com,he77len421
 7080,carmenkivisild,pancake_55@hotmail.com,carmenkivisild
 7081,kristel28,suve@hot.ee,allimarii
-7082,oddbj\xf8rn,marianne132@hotmail.com,tomat
+7082,oddbjørn,marianne132@hotmail.com,tomat
 7083,rullka,kaierull@hot.ee,vivian
 7084,monikazirkel,monikazirkel@gmail.com,monamonza
 7085,silmatera777,silles@hot.ee,Sunlove7
@@ -3444,7 +3444,7 @@
 7093,annely007,annely.koort@mail.ee,monika
 7094,tvenek,tiinavenek4@hotmail.com,alakahil
 7095,ukule,kirsi.pakkanen@pp5.inet.fi,oittinen6
-7096,plavu\x9aa,mahobe40@gmail.com,vmjm2112
+7096,plavuša,mahobe40@gmail.com,vmjm2112
 7098,yllep,yllep@hot.ee,runtsel
 7099,ellekas,Elle.Kass@mail.ee,kiska
 7100,suitsupea,gunnar.narep@mail.ee,piibutobi
@@ -3454,7 +3454,7 @@
 7104,Taija82,taija.savilaakso@gmail.com,nallukka
 7105,lizzy2,helika@jarve.edu.ee,pisike
 7106,lissu85,onni.hellikki@rokki.net,liisakoivula
-7107,trebla,villualbert@hot.ee,ristim\xe4e
+7107,trebla,villualbert@hot.ee,ristimäe
 7110,kalmer.kaiv,kalmer.kaiv@gmail.com,hieomo
 7111,Tommy1,tommy.lindstrom@bodycote.com,schimpo
 7112,nefer,Margit.Veromann@ut.ee,sinuhe123
@@ -3478,7 +3478,7 @@
 7130,purm,vaike@agrimail.ee,raamat
 7131,Onnikene,liinasober@hot.ee,Totuke
 7132,daiana27,dianavalba.mm@gmail.com,rudolf
-7133,Tiinaliivam\xe4gi,tiina@siet.ee,siet
+7133,Tiinaliivamägi,tiina@siet.ee,siet
 7134,juliam,leon4ik@hot.ee,147147
 7135,asalea,pokaalikas@hot.ee,murel
 7136,delfiinike1811,delfiinike1811@hot.ee,Ookean1992
@@ -3549,7 +3549,7 @@
 7207,reeta.ylikoski,reeta.ylikoski@kotinet.com,kidukset
 7208,kika27,kaugekarin@msn.com,londonarsenal
 7209,okalev,kalev.ojavere@mail.ee,murikas
-7211,hundit\xe4di,enevolk@hot.ee,enekas
+7211,hunditädi,enevolk@hot.ee,enekas
 7212,Haiku,elle18@hot.ee,elle12
 7213,danneli@hot.ee,annelidietrich@gmail.com,danneli
 7214,edako,eda.koskor@ut.ee,kimmel
@@ -3563,7 +3563,7 @@
 7224,monic113,monika.kuhi@mail.ee,kapsapea
 7225,kcenija,kcenija@hot.ee,kohila
 7226,efka,evi.akman@mail.ee,rivka
-7227,VAKMA,kaievakmann@hot.ee,l\xf6vike
+7227,VAKMA,kaievakmann@hot.ee,lövike
 7228,vita,v.bartuliene@hotmail.lt,gelyte
 7229,varruk123,kristiina.ets@hot.ee,Minnik74
 7230,Annuskha,annekivisild@hot.ee,anne2404
@@ -3581,11 +3581,11 @@
 7243,ristoa,ristoa@suomi24.fi,xx4100
 7244,helenak,helena@nero.ee,523714
 7245,bilija,bilija@inbox.lv,mazbemberi
-7246,Annela P\xe4llo,annela.pallo@gmail.com,helene
+7246,Annela Pällo,annela.pallo@gmail.com,helene
 7247,kannaste,keemik97@yahoo.com,ak22513
 7249,Nommi,neeme@salaaed.ee,nommikene
 7250,KursgÄºrden,lgj@stenselekursgard.com,450424
-7251,p\xe4rdu,vilmamiku@hot.ee,otep×”×”
+7251,pärdu,vilmamiku@hot.ee,otep×”×”
 7252,anders 67,anders.focksta@telia.com,123456
 7254,hulimuli,peepkk@hot.ee,peep30
 7255,piretsg,piretsg@gmail.com,pihlakas
@@ -3593,7 +3593,7 @@
 7258,jukikene,jkiisk@gmail.com,S1n1l1ll
 7259,Janelik,anny004@hot.ee,janelik
 7260,liisigirl,liisi99@mail.ee,braker
-7261,t\xe4diMaali,aasa@ut.ee,t\xe4diMaali
+7261,tädiMaali,aasa@ut.ee,tädiMaali
 7262,KalurKalur,erki@aavik.ee,Vahindra8
 7263,karsaak,karin.kook@microlink.ee,karsaak7
 7264,breky,breky83@hotmail.com,rometranno
@@ -3620,7 +3620,7 @@
 7289,kyllivapper,kyllivapper@hot.ee,mirjam
 7290,sukker,siiri.erm@gmail.com,everest
 7291,LINDAO,tartupretter@etk.ee,KALA
-7292,sulev m\xe4ll,eini.mall@mail.ee,sulev
+7292,sulev mäll,eini.mall@mail.ee,sulev
 7293,Ivetta,"ivetta63@hot,ee",framex
 7295,mimpsel,maie.pahk@mail.ee,lilleÅ‘is
 7296,Kiina,kina.kiina@mail.ee,Luik
@@ -3643,14 +3643,14 @@
 7315,elts,helgi.liig@hotmail.com,mere
 7316,evekass,evekass@solo.delfi.ee,kollane
 7317,sarsala,riitta.sarsala@smf.fi,sarsala
-7318,Jana K\xe4hri,jana.kahri@gmail.com,punanepostit
+7318,Jana Kähri,jana.kahri@gmail.com,punanepostit
 7319,Merli,meia22@hot.ee,jurikuu
 7320,loosid,loosid@hot.ee,motusmae
 7321,riina03,riinamartinson@hot.ee,Polevoi
 7322,taisipeek,taisipeek@hot.ee,Anastasia6
 7323,mÅ‘mmi,oiekurvas@gmail.com,Kapsapea
 7324,vilja,imbi.lutter@mail.ee,kommm
-7325,p\xe4evalill,sirje44@hot.ee,hallap
+7325,päevalill,sirje44@hot.ee,hallap
 7326,riina1,riina@voruvald.ee,peariina
 7327,annhinn,annhinn@hotmail.com,maailmanaba
 7329,kaidi80,kaidiallik@gmail.com,vaiasula
@@ -3702,14 +3702,14 @@
 7383,joonas.kreen,joonas.kreen@gmail.com,602-18-3115
 7384,airis123,Kohtova5irina@mail.ru,kassandra9
 7385,Barkarole,jaanakalmus@hot.ee,iiah
-7387,Merle  P\xe4rnaku,merle_parnaku@plant.agri.ee,159753ra
+7387,Merle  Pärnaku,merle_parnaku@plant.agri.ee,159753ra
 7388,an4olen,anneli.piiri.001@mail.ee,seemnemaailm
 7389,Sigita,sido0415@gmail.com,sidobro
 7390,veeorav,piret_vahula@email.com,sammalhabe
 7391,Six,Vahemere@hot.ee,uustalu
 7392,nadinunnadi,nadinunnadi@yahoo.com,xxx666
 7393,Marge72,margekari@hot.ee,p0ppy
-7394,Merle P\xe4rnaku,merle.parnaku@plant.agri.ee,159753ra
+7394,Merle Pärnaku,merle.parnaku@plant.agri.ee,159753ra
 7395,fialka,marina.bazilenko@mail.ee,meelespea
 7396,Juula,mdimse@hot.ee,Juula371
 7397,marja,mkaurla@hot.ee,ketukass
@@ -3731,7 +3731,7 @@
 7415,EVE KULDNER,Kuldnereve@hot.ee,ORHIDEE1
 7416,merikesekene,merike1956@hot..ee,musike
 7417,salvia,juha.malin@suomi24.fi,juhisma
-7419,edakivim\xe4e,kuldarkuki@hot.ee,Eda12345
+7419,edakivimäe,kuldarkuki@hot.ee,Eda12345
 7421,hekate,annekadastik@gmail.com,raekula
 7422,uusmaakas,uusmaakas@gmail.com,mu1ainus
 7423,aurelika,aurelika75@hotmail.com,lilleke
@@ -3963,13 +3963,13 @@
 7685,tricolor,margus.partei@mail.ee,pl0kkt33
 7686,aniis,piret@maskeraad.ee,hiidiisop
 7687,marina 55,merineitsi59@hot.ee,viskoosa
-7688,Antti,antti.roine@saunalahti.fi,p\xf6s\xf62009
+7688,Antti,antti.roine@saunalahti.fi,pösö2009
 7689,ufonaut,uv@hot.ee,511251
 7691,suvelilleke,suvelilleke@hot.ee,kiisukas
 7692,aili23,aili23@hot.ee,Kartago2
 7693,svetlanadubovik,dubovik@eem.ee,svetlana
 7697,musi,rhl@hot.eee,saba
-7698,T\xf5nu,tonu.grunberg.1@eesti.ee,kuku
+7698,Tõnu,tonu.grunberg.1@eesti.ee,kuku
 7700,Annekas1,koffi@hot.ee,861266
 7701,Evelinmanni,Evelin.Manni@wienerberger.com,klaabu
 7704,ansa,ansa666@hot.ee,sipsik
@@ -3979,10 +3979,10 @@
 7708,elviirak,koplik@hot.ee,ariivle
 7709,herba,herba@hot.ee,telegis
 7710,kalms,agri.osalus@mail.ee,leisi14
-7711,Rein  T\xfcrk,rein_tyrk@hotmail.com,armas25
+7711,Rein  Türk,rein_tyrk@hotmail.com,armas25
 7712,Emilk1987,emil.gson@hotmail.com,carlolof
 7713,Ankasvanka,ankasvanka@gmail.com,CpmhubIe
-7714,v\xe4ikem\xfc\xfc,anu.myyrsepp@energia.ee,anniliisu
+7714,väikemüü,anu.myyrsepp@energia.ee,anniliisu
 7715,kaie.peterson@ronsta,kaie.peterson@ronstad.no,tampen1
 7716,mammuke005@hot.ee,mammuke005@hot.ee,vonRosen1631
 7717,ceej1963,ceej1963@hotmail.com,pardonm8y
@@ -4000,7 +4000,7 @@
 7730,tiinale,viiesmeel@hot.ee,p×”×”suke09
 7731,misic aliona,juli.daki@my-its.net,a1l2e3n4a5
 7733,roosi2,silvikuvvas@hotmail.com,merca
-7734,annag\xe4,jerkanna@telia.com,anga
+7734,annagä,jerkanna@telia.com,anga
 7735,Flauermann,Karl_annast@hotmail.com,karlos
 7736,koovike,tiinakoov@gmail.com,tiigrikutsu
 7738,mammumia,janakull123@hot.ee,mammumia
@@ -4117,7 +4117,7 @@
 7868,supermario,s_r_d_j_@hotmail.com,olli90
 7870,uktiiae,tiia.eamets@pria.ee,toreon
 7871,suski.maenpaa,suski.maenpaa@gmail.com,inka2004
-7872,Sergio,sergeisauh@gmail.com,219\x107
+7872,Sergio,sergeisauh@gmail.com,21907
 7873,Heidi,anna.spagnolo@alice.it,seiuno0
 7874,sisu,ellepahn@hot.ee,vahendid
 7875,kurb007,tiiuaunapuu@hot.ee,minumusi
@@ -4154,16 +4154,16 @@
 7916,murdoc,Mait.Teinberg@gmail.com,123qwe4r
 7918,KARINA@ROLAN,karinacucik@inbox.lv,LETO
 7919,galina beljakova,beljakova64@mail.ru,6002502
-7920,Taimi M\xe4ntyl\xe4,ruusu10@gmail.com,Taimi
+7920,Taimi Mäntylä,ruusu10@gmail.com,Taimi
 7921,k059398,egsyjk@yahoo.co.kr,015098
 7922,AL3WUZ,gisbert-laube@foni.net,AFG3%5H
 7923,Pihlakas1,rt@viking.ee,naljakass
 7924,anniolen,anneli.piiri.001@mail.ee,seemnemaailm
 7925,moosinina,evaklason@hot.ee,Nunsik83
 7927,sissie,norpan21174@yahoo.se,norpan
-7928,marjake,maikeotsing@hot.ee,p\xe4ike
+7928,marjake,maikeotsing@hot.ee,päike
 7929,freyer,michafreyer@yahoo.de,tabbi21
-7930,kisuliini,asta.silvonen@gmail.com,lillisk\xe4
+7930,kisuliini,asta.silvonen@gmail.com,lilliskä
 7931,katapus,katapus@hot.ee,rizik
 7932,Kristik,kristi@geospatial.ee,Jahc1977
 7933,Aavo Lumi,aavo.lumi@vet.agri.ee,alumiinium
@@ -4196,7 +4196,7 @@
 7963,Sandra24,silva24@hot.ee,silva
 7964,laama,terje.tennosaar@ut.ee,17okaapikest
 7965,adelliine,adelliine@hot.ee,tani-ove
-7967,n\xf6tter\xf6,teija.ketola@dnainternet.net,hankster
+7967,nötterö,teija.ketola@dnainternet.net,hankster
 7969,nikki06,annikki.hyttinen@jippii.fi,ristij07
 7970,t.rautio,tuire.rautio@luukku.com,Cin612dy
 7971,gerianna,tuula.molkka@pp.inet.fi,1tomato
@@ -4281,7 +4281,7 @@
 8065,karmi,karmen.valgepea@kamilla.ee,mummi
 8066,MURA,TMMNMD@gmail.com,marika
 8068,Smulan1975,smulan1975@hotmail.com,712700
-8069,bojan,bojan.roos@multi.fi,tr\xe4dgÄºrd
+8069,bojan,bojan.roos@multi.fi,trädgÄºrd
 8070,Growit,t-andersson1@hotmail.com,risig
 8071,andri,andris68@mail.ru,liepaja
 8073,Mummi 73,kaosalu@hot.ee,15155
@@ -4361,7 +4361,7 @@
 8161,Anna,podina@apollo.lv,oskars
 8162,Pirjo,pirjo.eloranta@luukku.com,tuikku07
 8164,terje,terje1567@hot.ee,juuree
-8166,Dacite;D ,dace.ducmane@inbox.lv,Dacite;D
+8166,Dacite;D ,dace.ducmane@inbox.lv,Dacite;D 
 8167,own2rabbit,tiia.niiduviir@gmail.com,tacca
 8168,Kuti,nasgul123@hotmail.com,kaiperse
 8169,helire,georgia@hot.ee,astrada
@@ -4390,7 +4390,7 @@
 8195,Maia,maia@someru.ee,24101958
 8196,nakla,stenuustalu@gmail.com,250onG
 8197,Eetenin eeva,home.markula@kolumbus.fi,kasvismaa
-8198,t\xf6tter\xf6,laura.puruskainen@kolumbus.fi,kalkkuna
+8198,tötterö,laura.puruskainen@kolumbus.fi,kalkkuna
 8199,polle,auster-p@home.se,pubear
 8200,altiano1,altiano1@hot.ee,Tiiukene
 8201,lotake,lea_toomeoks@hotmail.com,tammeoksa
@@ -4439,7 +4439,7 @@
 8251,Irina Simanovica,BUCINASPARKS@inbox.lv,bucinas
 8252,moiseenkoelena,moiseenkoefgen@mail.ru,12131980
 8253,liina,malle.vilba@mail.ee,mikki
-8254,V\xe4ike Vaike,ave@vainamoinen.ee,neiuvaike
+8254,Väike Vaike,ave@vainamoinen.ee,neiuvaike
 8255,zija,bonis38@inbox.lv,bonis
 8256,bevelaquakid,raiko.aasa@publicist.com,arvutile1
 8257,knargla,knargla@hot.ee,peenramaa
@@ -4515,7 +4515,7 @@
 8341,KRISTINE,k.kalninas@inbox.lv,crowata
 8342,sanychee,sanychee,ur1ryb
 8343,Liivi Talitee,liivimix@hot.ee,liivit
-8344,m\xfcrsik1,merle913@hot.ee,Merle913
+8344,mürsik1,merle913@hot.ee,Merle913
 8345,Jugita,jugita.tropa@inbox.lv,Jugita
 8346,inara,inara.baranovska@riga.lv,aranib
 8347,vombat,tiihot.eeuvavulski@,griino
@@ -4575,7 +4575,7 @@
 8411,valli,valli.neidra.001@mail.ee,kaalikas
 8412,villukas,villu@meenuta.net,Kalamala1
 8413,kadrimet,kadri.metsik@mail.ee,kata123
-8414,Merle Tarrend,merle@voruvald,kevadk\xfclv
+8414,Merle Tarrend,merle@voruvald,kevadkülv
 8415,starc13,ivika@starc.ee,131313
 8416,Katrinp,katrin.pauts@gmail.com,1ia6lasw
 8417,arumae,arumae@smail.ee,urulees
@@ -4593,7 +4593,7 @@
 8432,kasesalu,meiel@mail.ee,pihlakas
 8433,kaja55,kaja55@hot.ee,kanepi
 8434,maiu,maiu.1969@hotmail.com,joosu
-8435,k\xfclli,kyllirootsma@hot.ee,kaseke
+8435,külli,kyllirootsma@hot.ee,kaseke
 8437,Valter,maret.valter@if.ee,marval
 8438,siim25,aadu.aadu@mail.ee,aadu123
 8439,lyke,ly.polluaar@mail.ee,musi
@@ -4625,7 +4625,7 @@
 8469,Aljona79,kotik97@hot.ee,757997
 8470,Nellija Stupane,nelija100@inbox.lv,stupanenelija
 8471,tiinaliiv,tiinaliiv@hot.ee,03259337
-8472,h\xf6lle,leena.holso-holm@pp.inet.fi,h\xf6llevi
+8472,hölle,leena.holso-holm@pp.inet.fi,höllevi
 8473,Aime Vilipere,sass@apelsin.ee,Beatrice
 8474,kulliki,kulliki_lillemae@yahoo.com,beatrice
 8475,alar,alar56@hot.ee,koolis2008
@@ -4660,7 +4660,7 @@
 8514,Andzhelika,engelitis@engelitis.com,44224422
 8515,puutarhamanniset,omanninen@yahoo.com,ivalo43
 8516,Orinta,tinaina@one.lt,valentinas
-8517,marianne sikkil\xe4,marianne.sikkila@hotmail.com,alice68
+8517,marianne sikkilä,marianne.sikkila@hotmail.com,alice68
 8518,jelenasolo,jelenasolo1@gmail.com,kukuauau
 8521,Antra,antrazalite@inbox.lv,12051981
 8522,margekus,margekus@hot.ee,makusla
@@ -4691,7 +4691,7 @@
 8558,Teffen,Priit099@hot.ee,09128432997
 8559,bogg,magnus.nilsson@gavle.to,bajskorv
 8560,argoagro,argo.laats@mail.ee,laeaets
-8561,J\xfcrka,jyri.randviir@gmail.com,aiahull
+8561,Jürka,jyri.randviir@gmail.com,aiahull
 8562,tirtsuke,terje@naripuit.ee,nupsu
 8563,kiisa,toivo.selistemagi@mail.ee,tiiulaura
 8564,Jeka,eva.tshizhikova@tallinnlv.ee,brett2
@@ -4722,7 +4722,7 @@
 8593,candy79,grei.reigo@mail.ee,G020879a
 8594,luutsepp,aino53@hot.ee,urmas61
 8595,peep,vanaizak@hot.ee,friida
-8596,silvanoor,kity45@hot.ee,noorm\xe4gi
+8596,silvanoor,kity45@hot.ee,noormägi
 8597,Liliakrasmus,liliakrasmus@gmail.com,innameelis
 8598,tibins,tutukene@hot.ee,tiivi1
 8599,Kaari,kaari_kressel@hotmail.com,KresselK
@@ -4755,7 +4755,7 @@
 8631,kristjan42,kristjan42@gmail.com,eindecker
 8632,ljuda,ljuda321@hot.ee,123456
 8633,Ellllu,eleri.riks@mail.ee,20LumeKratt10
-8634,auzinas2@inbox.lv,auzinas2@inbox.lv,\xd4ÄÄ¹\xc7ÄŒ\xdf
+8634,auzinas2@inbox.lv,auzinas2@inbox.lv,ÔÄÄ¹ÇÄŒß
 8635,volts111,mai.silm.001@mail.ee,volber
 8636,Pille81,pille@metroprint.ee,pilles
 8637,tiinanii,tiinaniiberg@gmail.com,ninaniina
@@ -4823,7 +4823,7 @@
 8708,laesmari,marika.laes@mail.ee,getter
 8709,katja.kuusisto,katja.kuusisto@gmail.com,urm8hk
 8710,mailisja,mailis.jaamaste@mail.ee,23tibu
-8711,sinim\xe4enrinne,virpi.facius@wippies.fi,virpi
+8711,sinimäenrinne,virpi.facius@wippies.fi,virpi
 8712,liismaarek,signe.aguraiuja@mail.ee,xvd936
 8714,santhea,zamolskis@aol.com,sandra
 8715,kats925,kadri.lodi@mail.ee,seemned
@@ -4874,7 +4874,7 @@
 8763,kibuvits,gbauert@yahoo.com,ritausma
 8764,catzux,catzux112@hotmail.com,minupisike
 8765,aaro,rabapistrik@hotmail.com,veenuseking
-8766,k\xe4di,kuslap.kadi@neti.ee,hannes
+8766,kädi,kuslap.kadi@neti.ee,hannes
 8767,pirjo74,pirjo.miettinen1@luukku.com,lillukka74
 8768,milena,bezvoda@bk.ru,kukareku
 8769,Leegu,maireliivsoo@gmail.com,surikaat
@@ -4890,7 +4890,7 @@
 8781,kattel,imbikatt@hot.ee,2126mj
 8782,helivako1,ingrid150@hot.ee,Helivako1
 8783,Evelynva,evelyn.vahemae@mail.ee,margus
-8784,kustik,kristi@oivik.ee,m66sin\xe4gu
+8784,kustik,kristi@oivik.ee,m66sinägu
 8785,Bagrat,akhali.eklesia@gmail.com,Tartu
 8787,reinulinda,reinulinda@hot.ee,kastani
 8789,jaakinnu,jaana.kinnunen@nsn.com,jesperi
@@ -4915,7 +4915,7 @@
 8813,MARDIKAS,safetysystem@hot.ee,manaka
 8814,uno9999,janek.sutt@mail.ee,silver
 8816,virginijak,zigrida@gmail.com,tentas1
-8818,irma,irmas@bredband.net ,pihlajafr\xf6n
+8818,irma,irmas@bredband.net ,pihlajafrön
 8819,sweet_hornet,sweet_hornet@inbox.lv,penelope
 8820,oletska,oltsik@inbox.ru,101000
 8822,Rita Aavik,Ritaaavik@gmail.com,Rita123
@@ -5032,7 +5032,7 @@
 8947,patjm,marja-leena.patjas@salpaus.fi,590520
 8948,angela75,pohjatuul1@hot.ee,ingovar
 8950,alinazukova@inbox.lv,alinazukova@inbox.lv,taisis
-8951,Feja R\xe4im,fejar@hot.ee,fF8w48
+8951,Feja Räim,fejar@hot.ee,fF8w48
 8952,m444,pkainu@gmail.com,Sini123nen
 8953,pohl,riinmandel@gmail.com,1mustikas
 8954,Carrie,carrie@karu15.ee,milli
@@ -5064,7 +5064,7 @@
 8983,mare48,mare48@hot.ee,010588
 8984,ainagr,ainagr@hotmail.com,saulite55
 8985,Valentina,valli59@rambler.ru,070985
-8986,rehuja ,heli.horppu@helsinki.fi,eestist\xe4
+8986,rehuja ,heli.horppu@helsinki.fi,eestistä
 8987,edahe,edahe@hot.ee,300373
 8988,Inese,inese.martinenko@gmail.com,pasaka
 8989,ss28,signe.siniorg@mail.ee,tauri
@@ -5226,7 +5226,7 @@
 9186,Vanja,Noora.Oikarinen@hotmail.com,valdemard
 9188,PUUTARHURI,eeva-maria.olkkonen@hus.fi,KELTANOKKA
 9189,issak,rooliotalu@hot.ee,donna
-9191,estniska blommor,elisabethcartlamy@msn.com,gyllenb\xe4r
+9191,estniska blommor,elisabethcartlamy@msn.com,gyllenbär
 9193,nnormak,nnormak@gmail.com,veebruar
 9196,semen6511,triod56@list.ru,945122
 9197,thela,evepiibe@uninet.ee,belladonna11
@@ -5236,12 +5236,12 @@
 9201,sirliliisa,helena.urb@mail.ee,Unistus2
 9202,vaida,dusia55lt@hotmail.com,seklos
 9203,TANTRE,Malle.Liblik@emu.ee,Male66
-9204,H\xfclgepoeg,elenlaur80@hotmail.com,kamponell1
+9204,Hülgepoeg,elenlaur80@hotmail.com,kamponell1
 9205,teriliin,arukask.terje@gmail.com,180477
 9206,karinm,karin.mumm@ut.ee,jungle18
 9207,Ruti,ruttmihkli@yahoo.com,karuke
 9208,Mihkele,Mihkel80@hotmail.com,Legalize
-9209,K\xf5iv,vaima.renate@gmail.com,\xf6\xf6bik
+9209,Kõiv,vaima.renate@gmail.com,ööbik
 9211,Velli,leo119@hot.ee,suhkur
 9212,soolatoos,karinpeebu@gmail.com,pipraveski
 9215,dino,ylo.laanoja@mail.ee,denljono
@@ -5332,7 +5332,7 @@
 9320,basilio,basilio@hot.ee,maastoomas
 9322,hyyp,kati@hyyp.ee,sarapuu
 9325,murikama,basja16@mail.ru,muttik
-9326,Baltika Partnerid O\xdc,baltikapartnerid@gmail.com,LUST
+9326,Baltika Partnerid OÜ,baltikapartnerid@gmail.com,LUST
 9327,eleriina,anuhallikas@hot.ee,Lillekerohu3
 9328,ippolit,larisaov-4@mail.ru,epolet
 9329,lepatriinu50,sirje44@hot.ee,hallap
@@ -5353,14 +5353,14 @@
 9347,railiherem,railiherem@ahoo.com,august
 9348,lourdessa,katrin.parts@hotmail.com,loore1
 9349,lilltakking,LTakking@gmail.com,41Lillta
-9350,v\xe4ljaotsatalu,valjaotsatalu@gmail.com,seersant007
+9350,väljaotsatalu,valjaotsatalu@gmail.com,seersant007
 9351,tuuliploom,tuuliploom@yahoo.com,ploomtuuli
 9353,urvek,liisa.sammelselg@mail.ee,rubik
 9354,eps,eps555@hot.ee,kismet
 9355,eeva25,eviani@hot.ee,aivenirgi
 9356,aprill74,ireen.laht@hotmail.com,c323cgma
 9357,Kristi,kristabell@hot.ee,56ak85
-9358,k\xe4nnaste,kannaste@yahoo.com,urtsi
+9358,kännaste,kannaste@yahoo.com,urtsi
 9359,Sveta,svetroz2007@rambler.ru,AliH4Jotwire
 9360,kaja3p,kaja3p@hot.ee,Laius77990
 9361,nemax,xrayss@rambler.ru,fotopljonka
@@ -5462,7 +5462,7 @@
 9483,astike,asti72@hot.ee,Kaloss34
 9484,t6nu,tonuvars.1@hot.ee,tammeorg
 9485,Ellen1,palmeos@mail.ru,palmeos
-9486,marje,marje.jarvi@ail.ee,j\xe4rvi
+9486,marje,marje.jarvi@ail.ee,järvi
 9487,kruumet,Kaidoruumet@hot.ee,12345
 9489,Lonni,margit@kade.ee,liiskade
 9490,luluta,luluta@hot.ee,nanamo
@@ -5479,7 +5479,7 @@
 9503,ingrid12,ingrid12@hot.ee,sinimini16
 9504,carene,carene@hot.ee,carene
 9505,merind,marge@jasva.com,6265319
-9506,N\xf6\xf6bik,annely.reimo@mail.ee,mimm
+9506,Nööbik,annely.reimo@mail.ee,mimm
 9508,puutaruri,kirsti.friman@hotmail.com,spring10
 9509,laurake,lauramusi112@hot.ee,jaanus1234
 9510,sinuhe,Veromann,nefer123
@@ -5543,7 +5543,7 @@
 9582,guy dirix,guidir@hotmail.com,lagena5m
 9584,ekana,esterkan@netti.fi,esterka
 9585,marjamari,marjamari@gmail.com,egoist
-9586,mie,tujuzu@netti.fi,siemeni\xe4
+9586,mie,tujuzu@netti.fi,siemeniä
 9587,asler,asler@hot.ee,piirits
 9590,emmeliina,gaasa@hot.ee,16Marts56
 9592,SigneL,ajarandur@gmail.com,Lennaronja
@@ -5586,7 +5586,7 @@
 9656,hkirsman,hannes.kirsman@eesti.ee,hiteks1
 9657,sno4,sandra.nowacki@t-online.de,good4me
 9658,ALBEKE,MARKOHIIR@GMAIL.COM,AFERIST
-9660,M\xe4ksu,huinamuina_11@hotmail.com,nugis
+9660,Mäksu,huinamuina_11@hotmail.com,nugis
 9661,porthos,stella@novarfm.ee,283746
 9662,Jacek,janek@data.ee,tUhajUhan8
 9663,Christian,info@swedishrockgarden.com,usagi
@@ -5656,7 +5656,7 @@
 9745,Katikraa,kati.kraaving@mail.ee,sgisdsc-
 9746,wwwares,tamme663@hotmail.com,august
 9748,piirikiri,riinapiir@hot.ee,kurekell
-9750,tiiti\xe4inen,tanjamusto-keijonen@hotmail.com,tiiti\xe4inen
+9750,tiitiäinen,tanjamusto-keijonen@hotmail.com,tiitiäinen
 9751,vassili,ene.padu@mail.ee,helene
 9753,innatamm,innatamm@gmail.com,hiiumaa1
 9754,kertu.pyssim@mail.ee,kertu.pyssim@mail.ee,kertukene
@@ -5692,7 +5692,7 @@
 9807,briki,briki@inbox.lv,19briki62
 9810,visnu,maarja.visnu@mail.ee,veebruar
 9811,jansku82,jaana030782@suomi24.fi,JM25eh
-9812,HMAI,hille-mai@kardinal.ee,S\xd5BRAD
+9812,HMAI,hille-mai@kardinal.ee,SÕBRAD
 9813,savan,anneli.savolainen@hotmail.fi,S59annel
 9814,malja.69,uuselu69@gmail.com,19690109
 9815,annen52,husbilar@posthem.se,annen52
@@ -5710,7 +5710,7 @@
 9832,kiwamiis,indrek.lepik@mail.ee,karpunn
 9834,iljasevits,ninailjasevits@mail.ru,ninake
 9835,an_jerboa,an_jerboa@yahoo.com,infection
-9837,EKIREM,nupsu5@hot.ee,NILT\xc4K
+9837,EKIREM,nupsu5@hot.ee,NILTÄK
 9838,agusihvka,aivarpau@hotmail.com,salakala
 9839,hannes,ehanaak@hot.ee,minemetsa
 9840,a_comand,a_comand@hotmail.com,aegee1999
@@ -5732,7 +5732,7 @@
 9865,miisu79,miisu79@hotmail.com,flop99
 9868,KKA,kirsi.kari@kolumbus.fi,viisas200
 9869,mario,hollercrombie91@yahoo.com,777power
-9871,Heidi Laine,laineheidi1@gmail.com,v\xe4xthuset
+9871,Heidi Laine,laineheidi1@gmail.com,växthuset
 9872,icecream71,icecream71@hotmail.com,marmaris
 9873,karinkollo,karinkollo@gmail.com,jo6al2kk
 9874,gioca,barramundi@libero.it,juventus
@@ -5858,7 +5858,7 @@
 10079,Juta,juditamust@gmail.com,Gediminas
 10080,wookles,Jvardja@gmail.com,ykskakskolm
 10081,botanik,david.mueller@botanik-laden.ch,686497
-10083,azor76,katjakilpirinne@hotmail.com,ollintytt\xf669
+10083,azor76,katjakilpirinne@hotmail.com,ollintyttö69
 10084,LIIA PALL,liia.pall@gmail.com,RAAMAT
 10085,idehaven@idehaven.ne,idehaven@idehaven.net,idehaven
 10086,tiinasinimaa,tiinasinimaa@gmail.com,77tiinu
@@ -5867,10 +5867,10 @@
 10089,helinav,helina.viks@gmail.com,Muskarella81
 10090,sindhu,anti@dispak.ee,hitsindhu
 10092,kari.kalenius@netson,kari.kalenius@netsonic.fi,Frisse2008
-10093,Andres P\xe4rn,pag@infonet.ee,Mat01iku
+10093,Andres Pärn,pag@infonet.ee,Mat01iku
 10094,Diki,kaarlopkrista@hotmail.com,dikiom2l
 10095,heikkike,heikki@kernu.com,taevas
-10096,avever,Niinem\xe4gi,avever
+10096,avever,Niinemägi,avever
 10097,kleht79,krista.lehtsaar@mail.ee,Krissu79
 10098,jeanne,fluxmoon@gmail.com,kat5m
 10099,undershaman,vansbrisco@hot.ee,everything
@@ -5907,7 +5907,7 @@
 10134,agafnja,pavelboger@mail.ru,OlGa2307
 10135,Indy_,indyliini@hotmail.com,keewat1567
 10136,Diana,dianagutor@hotmail.com,kristiina
-10137,taevat\xe4ht,kaja.aasriis@gmail.com,papi9nael
+10137,taevatäht,kaja.aasriis@gmail.com,papi9nael
 10138,kairetalja,kairetalja10@hot.ee,sinimustvalge1
 10139,memorykp,info@metstetalu.ee,vodiak29
 10140,erika39,erika.ojandu@mail.ee,minoor
@@ -5978,7 +5978,7 @@
 10218,Mudite,zvirgzdina.mudite@inbox.lv,ÐÐ»Ð´Ð¸Ñ7
 10219,iia1950,iia@smail.ee,4422367
 10220,triibik,malle.martson@tudulinnavv.ee,kibiirt
-10221,Jos\xe9 Vicente,j.v.ansede@hotmail.com,miyegualinda
+10221,José Vicente,j.v.ansede@hotmail.com,miyegualinda
 10222,anne-ly koort,annely.koort@mail.ee,monika
 10223,leera,kissa@hot.ee,paike
 10225,lucasfaria,panterfaria4@gmail.com,lafg8818
@@ -6012,7 +6012,7 @@
 10259,eevalota,eve.filipova@mail.ee,bossekene
 10260,inta talavas,talavasinta@inbox.lv,jancis2001
 10261,sirjetellisaar,sirjetellisaar@hot.ee,kool
-10262,lehtomaitikka,bengt.bergman@pp3.inet.fi,meid\xe4nomppu
+10262,lehtomaitikka,bengt.bergman@pp3.inet.fi,meidänomppu
 10264,Abies123,tomdooley50@gmail.com,cfbhmkl
 10266,virpi.s,virpi.suontausta@luukku.com,virpi.s
 10267,saubionjm,larrieu7@yahoo.fr,jardin
@@ -6108,12 +6108,12 @@
 10370,dzintra64,gintaras67@inbox.lv,adria
 10371,evelinj,ejoepere@hotmail.com,jankuonu
 10372,pax,priit@clickandgrow.com,Paxit0
-10373,mik\xe4lie,laina.oksanen@tpnet.fi,hupeli
+10373,mikälie,laina.oksanen@tpnet.fi,hupeli
 10374,trintsum,trintsum@hotmail.com,pisitibu
 10375,areni,areni@hot.ee,liigvalla
 10376,Iita,riitta.issakainen@kotinet.com,iippatirallaa
 10378,ingmob,ingela-moberg@telia.com,ingmob2555
-10379,Tiiu Holld\xe9n,tiiu.hollden@bredband.net,jussu
+10379,Tiiu Holldén,tiiu.hollden@bredband.net,jussu
 10380,puidukiisu,putspooland@hot.ee,Kiisumiisu
 10381,nipitiripipi,muuseum@hot.ee,elisabetike
 10382,iakkai,kai_marle@hotmail.com,sipelgas
@@ -6130,7 +6130,7 @@
 10394,frank,froe789@gmail.com,coucou
 10395,masjob,marietta.sjoblom@gmail.com,pupu76
 10396,inga.beke,inga.beke@inbox.lv,ingabeke
-10397,jarita,jar.kyt6m\xe4ki@hotmail.com,rommeli
+10397,jarita,jar.kyt6mäki@hotmail.com,rommeli
 10398,Vanda,vanda@intec.ee,Sillak11
 10399,radu6,cocorbita@abv.bg,6imbal
 10400,Pillalla,pillekond@gmail.com,pillalla1
@@ -6138,7 +6138,7 @@
 10402,Haljastaja,haljastaja@mail.ru,090853
 10403,talvikki75,sanna.jarvio@luukku.com,la080405
 10404,VelveTam,velve.tambla@mail.ee,katlin
-10405,juustoh\xf6yl\xe4,jaro.palmen@gmail.com,41t\xe4hti
+10405,juustohöylä,jaro.palmen@gmail.com,41tähti
 10406,varstubacken,varstubacken@spray.se,ajax123
 10407,kaamel21,fckenbar@live.com,trademaa
 10408,Aire1,aire.roosma@mail.ee,roosma
@@ -6169,7 +6169,7 @@
 10436,nikadi,ntn@abv.bg,adinik
 10437,simply,kristik19@hot.ee,Sedrik95
 10438,Peligro2,Peligro2@hot.ee,enalbaara
-10439,sanjaa,sanjaa@dnainternet.net,p\xf6s\xf698
+10439,sanjaa,sanjaa@dnainternet.net,pösö98
 10440,evaliisa01,evaliisa01@hot.ee,Raffaello90
 10441,tapani,tapanihelenius@wippies.fi,752113
 10442,Pirts,piret.tenso@politsei.ee,Jaanuar
@@ -6224,7 +6224,7 @@
 10493,tipilintu,veera.leppanen@hus.fi,tasmis
 10494,Alcedo,mari_liiva@hotmail.com,atthis
 10495,selma2005,klehmuskoski@gmail.com,tiina66
-10496,Pargi talu,oyfio@hot.ee,m\xf5is
+10496,Pargi talu,oyfio@hot.ee,mõis
 10497,duner,rasim.mekic@bih.net.ba,10011967
 10498,Oprineiti,inkeri.taskinen@gmail.com,vasama
 10499,prickly,vallom@hot.ee,hobune65
@@ -6314,7 +6314,7 @@
 10589,Kaie1234,kaie.varnik@gmail.com,lehmad
 10590,sofimamma,sofimamma@hot.ee,228teu
 10591,Yartsa,jhannus@jippii.fi,kevyt75
-10592,Nina Jyrk\xe4s,nina.jyrkas@gmail.com,N5kolmix
+10592,Nina Jyrkäs,nina.jyrkas@gmail.com,N5kolmix
 10593,odrak,kardo.reinsalu@mail.ee,pasun
 10594,juliusnovosad,juliusn@email.cz,ericsson
 10595,ristoek,risto.ekblad@dlc.fi,riistox
@@ -6328,7 +6328,7 @@
 10603,anu26,anujuurik@hot.ee,aneteke
 10604,verona,aliina2@hot.ee,sinilill
 10605,PilleKopp,pille.kopp@gmail.com,elu10olu
-10606,K\xe4pik,tsipoliino18@hotmail.com,bsb65bsb
+10606,Käpik,tsipoliino18@hotmail.com,bsb65bsb
 10607,AnnaL,AnnaVsa@hot.ee,151238
 10608,margit,margit.vaba@gmail.com,tammsaare
 10609,tsauki--,tsauki--@hotmail.com,oledloll
@@ -6427,7 +6427,7 @@
 10715,marge,theasilluta@hot.ee,Salvei
 10716,ilkkanr,ilkka.routasuo@saunalahti.fi,ikke59roti
 10718,DanielFalck,deefalck@hotmail.com,CLEmatIS11
-10719,anu124,anu.tex@mail.ee,m\xfc\xfcr
+10719,anu124,anu.tex@mail.ee,müür
 10720,zmonele,justeber@gmail.com,butukas7
 10722,uku kuut ,ukukuut@gmail.com,ilmpunktee
 10723,eetup,eetu.pohjola@netikka.fi,fletku04
@@ -6484,7 +6484,7 @@
 10780,yller ,ylleraali001@gmail.com,markus
 10781,gen,kotsur@hot.ee,taxus
 10782,PEKKAT,pekka.tuisku@oulu.fi,3EEEe3
-10784,aiakas,ylle.riisalu@mail.ee,ell\xfc55
+10784,aiakas,ylle.riisalu@mail.ee,ellü55
 10785,siimliiskmann,siim.liiskmann@gmail.com,liiskmannSIIM00
 10786,jette,jettegefke@gmail.com,gefke1
 10787,evezei@hotmail.com,evezei@hotmail.com,panter
@@ -6570,7 +6570,7 @@
 10873,helle2801,helle.vaarsi@rmk.ee,lilled
 10874,Tarun Kukka,tarja@tarunpihapuu.fi,tarupih1
 10875,sasasa,sasa.goltes@guest.arnes.si,poceniroze1M
-10876,russingirl,stormyrstenmamma@telia.com,fr\xf6ken
+10876,russingirl,stormyrstenmamma@telia.com,fröken
 10877,Tatjana60,lille_tatjana@mail.ru,kivila18
 10878,tammtiina10,tammtiina10@gmail.com,EluRoom1
 10879,Vidalife,vida.pavlica@amis.net,vidojka
@@ -6668,7 +6668,7 @@
 10983,moisakas,emvald@hot.ee,kikumaku
 10984,MariMets,maari12@hot.ee,marimets
 10985,Arnas,argnas@gmail.com,vartotojas
-10986,j\xf6rgenj,ragnarfrunk@hotmail.com,hammarby
+10986,jörgenj,ragnarfrunk@hotmail.com,hammarby
 10987,veetees2,vesa@skytta.net,peeseppa1
 10988,viliute,violeta.backoviene@gmail.com,ratelis7
 10989,janey,jyprus@gmail.com,kallake
@@ -6692,7 +6692,7 @@
 11007,sajateine,Sajateine102@gmail.com,lissi11
 11008,ursula88,uhiiemae@gmail.com,maaja99
 11009,Tirbu,tinamu@hot.ee,aksaks
-11010,Rita M\xe4lton,rita1011@hot.ee,Rita
+11010,Rita Mälton,rita1011@hot.ee,Rita
 11011,raigo75,raigo.nuut@mail.ee,1975
 11012,keitsy,msaks557@gmail.com,avonkatrin
 11013,merli1,merli1@hot.ee,lempuu
@@ -6710,7 +6710,7 @@
 11029,jaana,jaanaroostalu@hotmail.com,voodoo
 11031,MDP,margot.poldroos@mail.ee,11rant1A
 11032,Lana,pozitifkaa@mail.ru,240596
-11033,kaktus5521\xf6,emmeanu@hot.ee,kw\xfc719ddmy
+11033,kaktus5521ö,emmeanu@hot.ee,kwü719ddmy
 11034,virve45,vt14@hot.ee,sander
 11035,terje30,theinaste@gmail.com,terz98476
 11036,aimos,aimos@hot.ee,vix147
@@ -6718,7 +6718,7 @@
 11038,Laura777,heavenheart777@hotmail.com,0504085249
 11039,ussike12,katrin.jaanson@vandra.ee,pantu15
 11040,kukkanuppu,inna.leskela@gmail.com,kuriza5
-11041,KUU,elen.ormus@mail.ee,T\xc4HED
+11041,KUU,elen.ormus@mail.ee,TÄHED
 11042,Sabina Petrovic,sonja.sonja44@gmail.com,brokeback44
 11043,taksik,kornnoona@hot.ee,toruloru
 11044,uupsu,kristjan.kirspuu@mail.ee,kriskirs
@@ -6728,10 +6728,10 @@
 11049,daivamik,d.v.miksenai@gmail.com,lapkritys
 11050,marita50,marita.vieno@eura.fi,avaimet50
 11052,Penelopa,star-trafer@ya.ru,goblin
-11053,ulvike,ulvihilp@parksepa.werro. ee,p\xe4evalill
+11053,ulvike,ulvihilp@parksepa.werro. ee,päevalill
 11054,tepsu,tepsu@hot.ee,s1sal1k
 11055,mari081,tomson@email.ee,agnes10
-11056,ounamaja,L\xf5hmus,564687lm
+11056,ounamaja,Lõhmus,564687lm
 11057,kasvataja50,sirje44@hot.ee,hallap
 11058,kikamuka,cor.katerina@gmail.com,041077
 11059,krist638,Kristiina.Hellstrom@mail.ee,Gaia1980
@@ -6745,7 +6745,7 @@
 11068,airekas5,airekas5@hot.ee,123456
 11069,Mell,meelis.torim@mail.ee,imedemaa
 11071,kukurbita,kukurbita@hot.ee,Kangru
-11072,lehekonn,infrareet@gmail.com,aiap\xe4kapikk
+11072,lehekonn,infrareet@gmail.com,aiapäkapikk
 11073,tÅ‘nis,kuldarka@hotmail.com,avarmaa
 11074,bastard,vilde133@hot.ee,Anu030803
 11075,chemic,laurikauer@gmail.com,olentjuker
@@ -6906,7 +6906,7 @@
 11254,armvaart,aili.armvaart@gmail.com,liblikas
 11255,heliturku,heli.turunen@salo.fi,tellervo54
 11256,kruudak,kruudak@hot.ee,r4udt3325
-11257,Ritar,Rita.urbel@vanemuine.ee,P\xe4rna
+11257,Ritar,Rita.urbel@vanemuine.ee,Pärna
 11258,rvaidas,rutkauskas.raginenai@gmail.com,vo57
 11260,Piretmartinson63,Piretmartinson63@hot.ee,Jupats63
 11261,piller,eivemidt@gmail.com,ussisaba
@@ -7065,7 +7065,7 @@
 11436,Rebaseonu,rrb@rrb.ee,kassaru2000
 11437,evesen,evesen@hot.ee,kust11
 11438,MyKiisu,kristiina.rasina@hotmail.com,maasikmari9
-11439,B\xe4rbel,barbel.luhari@mail.ee,Szarvas1
+11439,Bärbel,barbel.luhari@mail.ee,Szarvas1
 11440,hatugirl,hatugirl@hot.ee,ruutupold1
 11441,krissan,lytobbi@hotmail.com,spiiker
 11442,clayer,forum01@gmail.com,123457
@@ -7199,7 +7199,7 @@
 11592,piksenool,toniskotli@gmail.com,Bardo
 11593,Kiisumiisu,kukekas@windowslive.com,Lokkar51
 11594,Aronia44,zxf538@aol.com,poisson
-11596,sentinvenytt\xe4j\xe4,helena.asikainen@pp.inet.fi,kakehellukhH
+11596,sentinvenyttäjä,helena.asikainen@pp.inet.fi,kakehellukhH
 11597,Elena Wirlander,elenawir@live.se,tulpanfikus
 11598,quentin,hennart.quentin@gmail.com,1982gonzo
 11599,ook4mi,ook4mi@hotmail.fr,j7f1iihb
@@ -7344,7 +7344,7 @@
 11753,Valdur,Akker,valelik007
 11754,vellra,vellra@hot.ee,Workshop
 11755,fizban,sertacnar@yahoo.com,353129
-11756,MarlenK\xe4rema,marlen@tm.ee,seeme
+11756,MarlenKärema,marlen@tm.ee,seeme
 11757,qwinda,qwinda10@gmail.com,Larcarrie12
 11758,ritapeetermann,saga@sagareisid.ee,Lotta2008
 11759,freimaneinga,freimaneinga@inbox.lv,aspidistra
@@ -7364,7 +7364,7 @@
 11774,kaja3p@hot.ee,kaja3p@hot.ee,Laius77990
 11775,PunaneUnistus,PunaneUnistus@gmail.com,juntsu
 11776,kaiaklem,kaiakiri@hot.ee,vallatu
-11777,T\xf5nn,riinatuulemae@hot.ee,13204756
+11777,Tõnn,riinatuulemae@hot.ee,13204756
 11778,mertss,merliounaaed@gmail.com,kannike
 11779,Mailyn,maidimeier@yahoo.com,Meiema01
 11780,orav,jevgeniaorav@smail.ee,saialill
@@ -7434,7 +7434,7 @@
 11856,Leevi,ou.rant@gmail.com,Lepakko
 11857,fghfghfgh,fgfgfg@gmail.com,123123123
 11858,lauriina3,leena.huiku@tut.fi,paivikki1
-11859,ott1188@hot.ee,Aedm\xe4e,meie2817
+11859,ott1188@hot.ee,Aedmäe,meie2817
 11860,harhailija,hilkka.raisanen@pihtipudas.fi,harhailee
 11861,Finprick,jukka_arola85@hotmail.com,250308
 11862,Violeta,naktsvijole32@inbox.lv,kenga
@@ -7447,7 +7447,7 @@
 11869,dinsi,diina.keizars@mail.ee,murmur
 11870,sdffsdfsdf,dfgdfgfg@gmail.com,123123123
 11871,mroorits,linteniaed@gmail.com,memmemusi
-11872,Kristimi,kristi.h\xfcneva@mail.ee,miku
+11872,Kristimi,kristi.hüneva@mail.ee,miku
 11873,lfrjnf,DrozdeckayaO@khmb.ru,ZZZZZZZZ
 11874,peep78,peepkask@hotmail.com,johannes
 11875,sini10,sini.raag@mail.ee,kuusik
@@ -7457,7 +7457,7 @@
 11880,Lilleuba,lii.roomussaar@hotmail.com,Naeris
 11881,salamandra,salamandras81@hotmail.com,1aapo23
 11882,triin-29@hotmail.com,triin-29@hotmail.com,triinuke
-11883,H\xe4li,haliratsep@hot.ee,ramses
+11883,Häli,haliratsep@hot.ee,ramses
 11884,kalÄek,darko.burgar@telemach.net,b15d71
 11885,Tarmo62,tarmo.sari@mail.ee,kapral
 11886,mammu131,mammu131@hot.ee,WCAZ458k
@@ -7473,7 +7473,7 @@
 11896,katime,kati.melts@elion.ee,kaisu5
 11897,L31884,koit.nook@mail.ee,5njIkU2a
 11898,ylane21,tupsu19@hot.ee,markom
-11899,LEMBIT,margitnikker19602@hot.ee,K\xdc\xdcSLAUK
+11899,LEMBIT,margitnikker19602@hot.ee,KÜÜSLAUK
 11900,ArtiomCa,karabuleaartyom@gmail.com,eremurus
 11901,mihhail,mix696@hot.ee,Ptichka13
 11902,rimma urm,rimma123@hot.ee,aednik
@@ -7487,7 +7487,7 @@
 11912,timoahonen,timo_ahonen@hotmail.com,sternentor
 11913,maris1,maris.tuuling@mail.ee,maris1
 11914,sivil,blanka.05@mail.ru,123456
-11915,hein\xe4hattu75,unikonkukka75@gmail.com,russelidooris
+11915,heinähattu75,unikonkukka75@gmail.com,russelidooris
 11916,pehmetuli,kalistratov@live.com,kommunizm
 11917,heiki5222,heiki0799@gmail.com,heiki5222
 11918,reet.luht@hotmail.co,reet.luht@hotmail.com,jubekole
@@ -7538,7 +7538,7 @@
 11970,MatiJegorov,mati.jegorov@mail.ee,njt544
 11971,ailikarlson,ailikarlson@gmail.com,Linnu123
 11972,meeli,meeli.tuubel@valgalv.ee,meeli001
-11973,trillj\xe4rv,trilljarv@hot.ee,Veigo
+11973,trilljärv,trilljarv@hot.ee,Veigo
 11975,simid,rita65green@gmail.com,250268
 11976,coolrachi,coolrachi@hotmail.com,ww800i
 11978,niiseeon,sirlipaliale@hot.ee,niiseeon
@@ -7583,7 +7583,7 @@
 12022,btomat,meelis@btomat.ee,kassikassi
 12023,est,avo@racingar.ee,asdfgh
 12024,aili tÅ‘nisson,aili.tonisson@pma.agri.ee,rommikoer
-12025,Peipsimaa,tauno.laasik@gmail.com,kogukonnak\xf6\xf6k
+12025,Peipsimaa,tauno.laasik@gmail.com,kogukonnaköök
 12026,Gaili,kristallne@hotmail,kenrasmus
 12027,anki,ankilax@hotmail.com,piknik
 12028,rosin25,rosin@hot.ee,trolla
@@ -7628,14 +7628,14 @@
 12070,uvica,urska.mavsar@gmail.com,anglija
 12071,kasslane,helene.kalda.001@mail.ee,kert
 12072,eneke,enemardo@hot.ee,eneke567
-12073,orvokki46,ulla.pohjonen@saunalahti.fi,y\xf6viulu
+12073,orvokki46,ulla.pohjonen@saunalahti.fi,yöviulu
 12074,mp,mn_pap@yahoo.gr,enisa2005
 12075,turunen45,turunen45@msn.com,tainat
 12077,GerLen,gerlenoc@mail.ru,liskaa
 12078,darsi70,valentin.stefanov.yanakiev@gmail.com,656565val
 12079,depositor8,martin8855@hot.ee,s1msalab1m
 12080,MerleL,MerleL1963@hot.ee,Merle1963
-12083,Ku-kurmitsa,pauliina_borgelin@hotmail.com,\xd6ljysiemenpaaht
+12083,Ku-kurmitsa,pauliina_borgelin@hotmail.com,Öljysiemenpaaht
 12084,marinak_62,mariamzedginidze@yahoo.com,gizuta
 12086,aaa,mari.paas@mail.ee,beeee
 12087,Irina2011,vqshegorod_irina@mail.ru,5143147
@@ -7722,7 +7722,7 @@
 12178,michael,joy.michaud@btinternet.com,michael
 12179,anne50,anne.andrejeva@mail.ee,tombatalu
 12180,marlep,marelepik@hot.ee,lepmar
-12181,R\xf6lli ,eila.smura@kolumbus.fi,Viitanen
+12181,Rölli ,eila.smura@kolumbus.fi,Viitanen
 12182,Agrin,noderigi@inbox.lv,noderigi10
 12183,Agrrin,nozimigi@inbox.lv,nozimigi10
 12184,Kerstirattus,kersti@kultuur.edu.ee,k1u2k3k4
@@ -7745,7 +7745,7 @@
 12202,tomater,sanmi0@yahoo.es,siberiantomatoe
 12203,vupsik,wapkula@hot.ee,jefreitor
 12204,janinurmi,janinurmi80@luukku.fi,sieni
-12205,Anneli Ennom\xe4e,annelie@ut.ee,449TES
+12205,Anneli Ennomäe,annelie@ut.ee,449TES
 12207,maltenieks,md.gardening@inbox.lv,mdpzz
 12208,Urmert,urmetbio@hot.ee,Urmert3800417
 12209,turka6,turka6@inbox.lv,123456
@@ -7802,7 +7802,7 @@
 12260,Kaidi,kaidi.kustassoo@mail.ee,mustikas
 12261,Richard Wright,richardwrightuk@yahoo.co.uk,kiswahili
 12262,Lauravilk,lauravilk@gmail.com,mukasxx1
-12263,M\xe9lodie,75.jardimelodie@gmail.com,03051946ff
+12263,Mélodie,75.jardimelodie@gmail.com,03051946ff
 12264,Tikker,sofimamma@hot.ee,228teu
 12265,mehmet,mehmet70@gmx.net,1ornithoptera
 12266,Daigatihomirova,daiga.emb@inbox.lv,29936562
@@ -7819,12 +7819,12 @@
 12277,suhkrutips,kristiina.koger@gmail.com,netipank
 12278,valeri,lerotrans@hot.ee,200bbk
 12279,juljetta72,juljetta72@yahoo.com,sheetsun
-12280,Eva Koprlov\xe1,michaella100@azet.sk,nevadi
+12280,Eva Koprlová,michaella100@azet.sk,nevadi
 12281,Ineta,hine@inbox.lv,kastanisi5
 12282,kassnaine556,Kassnaine556@hot.ee,kassnaine556
 12283,Novikova,elinanov@mail.ru,kahala
 12284,sirenia,maripitk@hotmail.com,85lind
-12285,p\xe4ivin\xf6in,taina.rakkolainen@gmail.com,bestoff
+12285,päivinöin,taina.rakkolainen@gmail.com,bestoff
 12286,koira,anlahte@gmail.com,anne2412
 12287,taavituur,taavituur@hot.ee,nossuke
 12288,gintuce,gintuce@tvnet.lv,140575
@@ -7840,7 +7840,7 @@
 12299,kotkas65,merike.salu@hotmail.com,Andre1
 12300,tomasikovny,thomas.sauk@spray.se,kulomet
 12301,Crosby,Annie.combesque@wanadoo.fr,mike007
-12302,j\xe4nsaa,saara.janonen@luukku.com,saara220879
+12302,jänsaa,saara.janonen@luukku.com,saara220879
 12303,Majka,marsu78@netti.fi,Kaveli
 12304,kondova,kondova@abv.bg,kokotona
 12305,lphr65,leena.lehtola@gmail.com,huvitutti
@@ -7886,7 +7886,7 @@
 12346,Nurme2,anu.siim.001@mail.ee,Aasa
 12347,eret84,"Ertsu25@gmail,com",ertsu25
 12348,IlzÄ«te,dins69@inbox.lv,emilija
-12349,nata\x9aa,natis@t-2.net,versacamm
+12349,nataša,natis@t-2.net,versacamm
 12351,Marite,marite.gravite@inbox.lv,Wari7e
 12353,einike,eini@hot.ee,keevitaja
 12354,Jana Limbo,jana.limbo@gmail.com,Jaana38
@@ -7977,7 +7977,7 @@
 12443,mikk,toivo.viira@mail.ee,reks
 12444,tasa,tsaul@luukku.com,designer
 12445,ekaterina 771,ecoflaur@gmail.com,luxmir
-12446,krival,krista.vallner@vesiterm.ee,p\xe4ike
+12446,krival,krista.vallner@vesiterm.ee,päike
 12448,telluk,loore.kuus@hotmail.com,kriimu
 12449,maariite,marite.h@inbox.lv,morina4561
 12450,oinga,oinga@inbox.lv,olbijs
@@ -8016,7 +8016,7 @@
 12483,ginetaa,ginetaa@gmail.com,kontribucijaa
 12484,siku89,sigrid.strantsov@hotmail.com,kardinad
 12485,haidekala,penelope@hot.ee,pilvekene
-12486,Mare M\xe4rtens,mare.martens55@gmail.com,marikene
+12486,Mare Märtens,mare.martens55@gmail.com,marikene
 12487,Ineta7,hine@inbox.lv,bugivugi9
 12488,Maamees,metsnik@email.ee,jaakaru
 12489,pille Å‘ng,ong@teaspon.ee,lutikas
@@ -8024,7 +8024,7 @@
 12491,Tomson,tiiutomson@hot.ee,Tiiu
 12493,kolov@mail.ru,kolov55@mail.ru,kolov001
 12494,Termik,merike.kaugesaar@telia.com,Lampsbok
-12495,t\xe4itsalÅ‘pp,lya.koplimae@dbschenker.com,510265
+12495,täitsalÅ‘pp,lya.koplimae@dbschenker.com,510265
 12496,ylle koddala,ylle.koddala@mail.ee,yllekas5
 12497,Marek Hal,marek.hal@seznam.cz,123456
 12498,ninanupponen,nnnupponen@gmail.com,1971
@@ -8110,14 +8110,14 @@
 12581,cenneth,jennykulbok@hotmail.com,cenneth
 12582,ceeray,luciray@gmail.com,12345678
 12583,fuaaa,ah1255ah@yahoo.com,nigger000
-12584,renisemb,H\xe4rm,abcdefgh
+12584,renisemb,Härm,abcdefgh
 12585,tomson454,tomson454@gmail.com,2004AT1B
 12586,arvi,arviroodus@gmail.com,rentniku1
 12587,nele81,nele.napritson@gmail.ee,Kelyn2003
 12588,enekriel,ene.kriel@mail.ee,ruudi
 12589,Svetlishok,svetlana-staffi@yandex.ru,123456
 12591,Lennu_G,Lennu_G@hotmail.com,ivorytower
-12592,tillit\xe4r,ainovuorinen@luukku.com,aikari
+12592,tillitär,ainovuorinen@luukku.com,aikari
 12593,aprill23,merju.leiaru@mail.ee,aprill23
 12594,hopo@hot.ee,hopo@hot.ee,hopo1
 12595,linda.leite@inbox.lv,linda.leite@inbox.lv,sinemona40
@@ -8139,13 +8139,13 @@
 12611,kallisegle,egle.israel@katoliku.edu.ee,557755
 12612,sintija,sintija.s@inbox.lv,graumane
 12613,gates,veljo.varava@gmail.com,noksipunn
-12614,eija.lev\xe4nen,e.le@luukku.com,anniina95
+12614,eija.levänen,e.le@luukku.com,anniina95
 12615,riina pedaja,riinapedaja@hot.ee,kermo
 12616,Maileht,kairi.maileht@emu.ee,kartusov
 12617,TupsikNupsik,riina.sakkool@mail.ee,r23mai
 12618,Gintauta,gintauta.dudutiene@gmail.com,ginte
 12619,gbpurple,annaliawillow@gmail.com,caledonia
-12620,kassik\xe4pp,rabapistrik@hotmail.com,kassisaba
+12620,kassikäpp,rabapistrik@hotmail.com,kassisaba
 12621,skabarga99,ilgaivanova@inbox.lv,kafija55
 12622,tiinata,ilmatiinata11@gmail.com,tossupomm11
 12623,Sandra,sandra.ruska@gmail.com,magone
@@ -8160,7 +8160,7 @@
 12632,lizis,liisa.hohtio@kolumbus.fi,Stuffe12
 12633,moonstar,miranarave@suomi24.fi,luuranko
 12634,montca,monika.piibe@mail.ee,sendysent
-12635,kolbl,igor.stolnik@volja.net,ro\x9eica16
+12635,kolbl,igor.stolnik@volja.net,rožica16
 12636,Vetta,vettoria777@mail.ru,478088
 12637,Scatty,tuuli.tolmov@mail.ee,kalakesed
 12638,elita,elita227@inbox.lv,honolulu99
@@ -8227,7 +8227,7 @@
 12701,ValliO,valliorav11@hotmail.com,oravake
 12702,Kats,katrin.rood@gmail.com,Kats
 12703,azuul,azuul@email.ee,annimanni1
-12704,birn,birn@hot.ee,J\xe4ndi
+12704,birn,birn@hot.ee,Jändi
 12705,istik,mallekr@gmail.com,rikuriku
 12708,Sv3n,skatkosilt@hotmail.com,bviLca7c
 12709,ikkonen,rein.ikkonen@ttg.edu.ee,Nier1950
@@ -8262,7 +8262,7 @@
 12739,SirNur,sirpakoo@luukku.com,kasvihuone
 12740,rohtla39@hot.ee,rohtla39@hot.ee,kartul
 12741,lillehull,maire@viimvivv.ee,lillehull
-12742,peltorinne,jorma.vuorinen6@gmail.com,vastam\xe4ki
+12742,peltorinne,jorma.vuorinen6@gmail.com,vastamäki
 12743,marieva,marieva@roheagentuur.ee,lepakko
 12744,timofeevka,o_tim_psk@mail.ru,x24ik3
 12745,hulkur,imbirebbas@hot.ee,Arnikatee17
@@ -8270,7 +8270,7 @@
 12747,mlaurik,mariliis.laurik@gmail.com,nipitiri
 12748,silvipoliste,poliste@hot.ee,musike
 12749,seedritalu,seedritalu@gmail.com,Kriss93
-12750,C\xe9line Frey,frey-chatelain@wanadoo.fr,Colvillea
+12750,Céline Frey,frey-chatelain@wanadoo.fr,Colvillea
 12751,ritamelnikova,rita_melnikova@inbox.lv,pukuzirnis
 12752,sigrit456,sigrit@smail.ee,minuoma456
 12753,imppar,imbi.vaasma@gmail.com,kiisuke
@@ -8325,7 +8325,7 @@
 12802,diiver,Kuschka,poskar10
 12803,Joesalu,Joesalu11@hot.ee,kitseke
 12804,mkaare,maili@snekker.ee,13qe24wr
-12805,kaasik,lydia.rudi@gmail.com,m\xf5ra11
+12805,kaasik,lydia.rudi@gmail.com,mõra11
 12806,suvi.t,suvi.tuomaala@hotmail.com,jokiniitty
 12807,piretaess,pipp@hot.ee,buffalo
 12808,Evi Feldmann,kylner@hot.ee,1947
@@ -8361,11 +8361,11 @@
 12838,frankvdb,frankvandenberghe1000@gmail.com,crocodil
 12839,votaso,votaso@rambler.ru,545254
 12840,hmmets@hot.ee,hmmets@hot.ee,Toomas22
-12841,mamisko,milja.m.l@gmail.com,Ke1v\xe4t2
+12841,mamisko,milja.m.l@gmail.com,Ke1vät2
 12842,ivetucis,ivetalaksberga@inbox.lv,abcde1
 12843,pohlamari,yellef@hot.ee,mersumersu
 12844,riisaluulle,alualgk@hot.ee,trikoo55
-12845,silvanoorm\xe4gi,kadrinoor@hot.ee,noorm\xe4gi
+12845,silvanoormägi,kadrinoor@hot.ee,noormägi
 12846,maret85,maretmerekylski@gmail.com,6tbx54qn
 12847,evegr,grossikas@gmail.com,kullatolm
 12848,ellola,jaanikalahemaa@gmail.com,Kaarel100
@@ -8507,7 +8507,7 @@
 12987,Magiklill,magiklill@magiklill.eu,magiklill1212
 12988,Hannabad,hannabad1@gmail.com,132379
 12989,lissukissu,torimkity@gmail.com,Lisete2004
-12990,kes\xe4nkukat,ellieveliina.husu@gmail.com,samiantti
+12990,kesänkukat,ellieveliina.husu@gmail.com,samiantti
 12991,Mall Zupping,mallzp@hot.ee,RAILI
 12992,tiinalane,L×”×”nerand,toscana
 12993,punanetiiger,signef@hot.ee,pesumasin1
@@ -8530,7 +8530,7 @@
 13010,ferri,ferrikilu@hot.ee,tiigrikutsu
 13011,signetorma,signe.torma@gmail.com,kirsikook
 13012,jaan1948,jaan.paulson@mail.ee,lisette
-13013,aura23,rufik14@hot.ee,RTY555p\xfc
+13013,aura23,rufik14@hot.ee,RTY555pü
 13014,jetteg.,jettegefke@gmail.com,geranium
 13015,Juhuslik,helx24@hot.ee,tainas22
 13016,madur,madur6@gmail.com,parool
@@ -8600,7 +8600,7 @@
 13082,gailanemara,gailaneMara@inbox.lv,sponsors
 13083,Ivimusimops,ivi.kaljumae@mail.ee,deegu
 13084,hindrek,hindrek.rajaste@mail.ee,Hamster3
-13085,hakipoeg,virvekoivomagi@hot.ee,kÅ‘ivom\xe4gi
+13085,hakipoeg,virvekoivomagi@hot.ee,kÅ‘ivomägi
 13086,kiri.angelale,kiri.angelale@gmail.com,angelaling
 13087,Tatka,tatanoskova@hot.ee,clearway7
 13088,caputschi,matijas,sammy1
@@ -8644,7 +8644,7 @@
 13126,kemmus,kemmus@gmail.com,jarÅ‘nailo
 13127,halis,jussi.pulkkinen@kaisla.net,kirsikka
 13128,tiina152,tiina152@yahoo.com,doo2qjsf
-13129,s\xf6eke,sirtsu2001@hotmail.com,stepilammas
+13129,söeke,sirtsu2001@hotmail.com,stepilammas
 13130,xeniazh,pchela1984@yahoo.com,seesam41
 13131,pekan,salo.pekka1@luukku.com,asdfghj
 13132,maattoimisto,toimisto@maatiainen.fi,s69mt52x
@@ -8677,7 +8677,7 @@
 13159,MtasMeri,merike.matas.003@mail.ee,mairoldas1
 13160,ereli,ereli.pyya@mail.ee,mo3lsljmanvv
 13161,maarten,enevaasna1@hot.ee,matu
-13162,santaljuzija,ljusik_66@mail.ru,\xe41\xf49\xf26\xf46
+13162,santaljuzija,ljusik_66@mail.ru,ä1ཉ༦ཆ
 13163,Varje1,varje.vaikjarv@mail.ee,endelkarmen
 13164,r×”×”li2007,ulvi2007@gmail.com,2007r×”×”li
 13165,juliettel,julia.loginova@gmail.com,saigon
@@ -8707,7 +8707,7 @@
 13190,kalind,heldi.kalind@gmail.com,kerkat50
 13191,mutt566,mallerubin@hot.ee,sookuru
 13192,fnotu,johannamykkanen@gmail.com,kaneli1
-13193,MarjeV\xe4lbe,marje.valbe@mail.ee,252525
+13193,MarjeVälbe,marje.valbe@mail.ee,252525
 13194,ninutska,nina.jyrkas@gmail.com,N5gardenist
 13195,lianalee,lianaloora@gmail.com,089ato
 13196,sloskin,satu.loskin@gmail.com,yllar123
@@ -8801,7 +8801,7 @@
 13289,mteder,mtederlav@gmail.com  ,m6a6r6i6
 13291,ingrid22,ingridtamm.fi@gmail.com,eliisabet
 13292,Danar,irjakuseva@gmail.com,domik888
-13293,aiafriik,hellik@la.tln.edu.ee,noben\xe4pp
+13293,aiafriik,hellik@la.tln.edu.ee,nobenäpp
 13294,ilonad,ilona.djukareva@mail.ee,321606
 13295,kirsti1,kirsti1@hot.ee,K11sukeauh
 13296,milvik,milv55@hot.ee,viuks66
@@ -8812,9 +8812,9 @@
 13301,muulukas,kaija.kesa@gmail.com,kalakass
 13302,dagnipertels,dagnipertels@hotmail.com,kvartett
 13303,Honkkeli,phonka@gmail.com,Kakkula
-13304,tervisepesa,silmgerli@gmail.com,p\xe4ike
+13304,tervisepesa,silmgerli@gmail.com,päike
 13305,zen,teijo.herold@gmail.com,7391
-13306,Totte,totte.m.kiianmaa@student.hamk.fi,mustaven\xe4l\xe4inen
+13306,Totte,totte.m.kiianmaa@student.hamk.fi,mustavenäläinen
 13307,sigridkurg,sigridkurg@gmail.com,suslik26
 13308,Sussukas,Silvi.Nugis@gmail.com,gaspar
 13309,michaeljohnson,michael.mickyfinn6777@googlemail.com,riptide1939
@@ -8892,7 +8892,7 @@
 13381,raudkair,raudkair@hot.ee,meditsiin
 13382,Deniss,info@nz.ee,s55eleNa1
 13383,ankh,kristi.saaremae@gmail.com,1234ankh
-13384,Riina P.,riina.net@gmail.com,nen\xf6l\xf6P
+13384,Riina P.,riina.net@gmail.com,nenölöP
 13385,mvahe,marianne@hot.ee,nolkov
 13386,eatjoy,hovi.heidi@gmail.com,kluuvi
 13387,lill123,Bosssssssss@hotmail.com,lill
@@ -8903,7 +8903,7 @@
 13392,bjornmed,b973@gv17.se,isyxor
 13393,jaak,jaakpalm@hot.ee,jospel
 13394,Oks,947mly@mail.ru,326468
-13395,Helka,paivyt.huttu-hiltunen@eduouka.fi,huhtikuuntytt\xf6
+13395,Helka,paivyt.huttu-hiltunen@eduouka.fi,huhtikuuntyttö
 13396,aama,terjeperm@yahoo.com,tuula
 13397,elvelipp,elvelipp@hotmail.com,sony
 13398,Svetlanka01,s.kalinina@gmail.com,svetik
@@ -8963,7 +8963,7 @@
 13455,Gerli,gerligo@hot.ee,Britikass2
 13456,ank,ants.lill@hotmail.com,uus.maailm
 13457,Marismaris,maris@einars.com,siram
-13458,Sevenar o\xfc,katrin432@gmail.com,abiline
+13458,Sevenar oü,katrin432@gmail.com,abiline
 13459,Kailiin,lizere55@gmail.com,korsika
 13460,marka19,marka19@hot.ee,kalla21
 13461,janari,janari.pold@gmail.com,janari_pold
@@ -9002,7 +9002,7 @@
 13496,annelibent,anneli.bent@gmail.com,annelibent
 13497,perhonen,lumi.hautaniemi@gmail.com,wah3guru
 13498,hecate112,hecate112@gmail.com,58945894
-13499,k\xe4gu,agnessakna@email.ee,marjamaa
+13499,kägu,agnessakna@email.ee,marjamaa
 13500,lahonen,leena.ahonen@helsinki.fi,aurora16
 13501,Aprill,reelika_niklas@hotmail.com,Aprill.1
 13502,bully,bulmanstephen@yahoo.co.uk,november7
@@ -9024,7 +9024,7 @@
 13518,Gretel,glukka@me.com,limonaad
 13519,silentscream,silentscream@mail.ru,ohlomon
 13520,Arne,presidendi.kantselei@gmail.com,Sipelga14
-13521,savikka,l.elomaa@gmail.com,kju\xa3vEt1aAn
+13521,savikka,l.elomaa@gmail.com,kju£vEt1aAn
 13522,karinsikkal,karinsikkal@yahoo.com,g2rf1eld
 13523,jennykulbok@hotmail.com,jennykulbok@hotmail.com,demike1608
 13524,avohaiba,avo.haiba@mail.ee,1250
@@ -9118,7 +9118,7 @@
 13612,vitek1976,kavaler5078@mail.ru,55555555
 13613,anjabananja,annela12@hotmail.com,Tibuke12
 13614,heeli,helaest@hotmail.com,46801020015
-13615,pontu,pontu@windowslive.com,p\xe4tukuti
+13615,pontu,pontu@windowslive.com,pätukuti
 13616,kadyp,kadyp@hot.ee,kaisu
 13617,Samad,meem.mee@gmail.com,m3simumm
 13619,Irinaser,irinaser@hot.ee,viktoria22
@@ -9210,7 +9210,7 @@
 13706,LiisiJa,Liisi.Jakobson@ut.ee,seemnemaailm
 13707,raili ruus,maire106@hot.ee,maire106
 13708,salinina,asyash@bk.ru,111111111
-13709,K\xf5ps,fookus6@gmail.com,sidrun198p
+13709,Kõps,fookus6@gmail.com,sidrun198p
 13710,laloka2,laloka2@bk.ru,151285
 13711,Tuija,tuija.a.tamminen@gmail.com,havu01
 13712,orlova2000,kollekcioner@hotmail.com,300781
@@ -9226,7 +9226,7 @@
 13722,Pirkin,piretpiret@hot.ee,240177
 13723,ikkajaalati,araksia.gevorkjan@mail.ee,orvokki
 13724,matheus,martin.merirand@gmail.com,saabas
-13725,r\xfcblik,silva.meier@gmail.com,kuidasnii
+13725,rüblik,silva.meier@gmail.com,kuidasnii
 13726,Raissa Äirokova,naimo@hot.ee,pootsman
 13727,mattiasliivak,mattias.liivak@eesti.ee,Bulgak0v123
 13728,akiraam,piffuke@hotmail.com,123123
@@ -9243,7 +9243,7 @@
 13739,eleen,evelin.silgo@gmail.com,eveliina
 13740,Reeli,reeli.hakman@gmail.com,rebaorav
 13741,SJpdr,sergei.juganson@gmail.com,SJ0285
-13742,Marge K\xfctt,margekutt@hot.ee,musTikas8
+13742,Marge Kütt,margekutt@hot.ee,musTikas8
 13743,grazyapple,indrek.nogu@mail.ee,kuul007
 13744,Valeyrac,bihari.balazs@gmail.com,DeWinter
 13745,VeronikaKookmaa,info@vanausulised.ee,He6773774
@@ -9267,7 +9267,7 @@
 13763,Cerly,laurkerli@hot.ee,9feff6Yh
 13765,Elita Paromova,elitaparomova@inbox.lv,salenieki166
 13766,davide,davide.demarzo@libero.it,davide
-13767,p\xe4ssu,ede77@hot.ee,draakon
+13767,pässu,ede77@hot.ee,draakon
 13768,TEret,eret.laht@vaivara.ee,1992
 13769,maremari,mare.kabur@gmail.com,kuumari
 13770,mamito,mamito@hot.ee,1q2w3e4R
@@ -9297,7 +9297,7 @@
 13794,willand,jyrgen@lap.ee,tere123
 13795,kaysa,kaysa28@hot.ee,1974125
 13796,liivilents,liivilents@hotmail.com,kiksel
-13798,K\xfcllike Saarna,paekaevu@gmail.com,mattias5
+13798,Küllike Saarna,paekaevu@gmail.com,mattias5
 13799,merly,ey@hot.ee,merly
 13800,kerstin.levin@telia.com,Levin,Kerstin6323
 13801,Elmira Skodenko,elmira.skodenko@mail.ee,Anna1222
@@ -9559,8 +9559,8 @@
 14061,aguilherm,aguilherm@hotmail.com,29518888
 14062,angela,angelatisler@hotmail.com,atsi9876
 14063,kanarina,kanarina@hotmail.com,21250000
-14064,F\xfc\xfcsal,kai@artmeeter.ee,kaifyysal
-14065,marihiiem\xe4e,terra@smail.ee,kaspar
+14064,Füüsal,kai@artmeeter.ee,kaifyysal
+14065,marihiiemäe,terra@smail.ee,kaspar
 14066,katlin,katlineit@hot.ee,armastus
 14067,sultsi,gennadi28@hot.ee,raua
 14068,tuikkuli,tuija.urpanen@saunalahti.fi,hannele
@@ -9680,7 +9680,7 @@
 14185,l.pecerkin,l.pecerkin@web.de,01041960
 14186,kalateja,kalateja11@mail.ru,monstera
 14187,Kaijananda,kaija.kesa@gmail.com,Paradiisiaed
-14188,annika7,listra.annika@gmail.com,j\xe4nes
+14188,annika7,listra.annika@gmail.com,jänes
 14189,Botva,botva@inbox.lv,kraslavabotva
 14190,Ljubov1971,kadrion.kadrion@mail.ee,55958947
 14191,Djacson,djacson@hot.ee,123581321
@@ -9691,7 +9691,7 @@
 14196,paula.oravainen,paula.oravainen@hotmail.com,s1emenet
 14197,olga bogorodskaya,mart-a@mail.ru,igorson
 14198,ElenPÅ‘dra,elen.podra@gmail.com,liiina
-14199,MarlenK\xe4rma,marlen@tm.ee,seeme
+14199,MarlenKärma,marlen@tm.ee,seeme
 14200,Eleriii,eleri.urgard@gmail.com,159951
 14201,mule,hugues.reveniaud@wanadoo.fr,aurores
 14202,elly75,ylle.riigov@mail.ee,Ywhmeoxb
@@ -9771,7 +9771,7 @@
 14281,tene23,tene22@hot.ee,Marekjyrgens27
 14282,vahk,vahk14@hotmail.com,whitepride
 14283,Hanne,hs.christensen59@gmail.dk,lipliplip
-14284,V\xf5ru T\xfc,turu@vty.ee,turupood
+14284,Võru Tü,turu@vty.ee,turupood
 14285,fojaco,jamin_fojaco@hotmail.com,lepydodendron
 14286,Juri 2012,yur-afanasev@mail.ru,solnsevzenite
 14287,Leoncoolio,leoncoolio@hotmail.com,9tyrauhaw
@@ -9782,7 +9782,7 @@
 14298,bgrali,bgrali@abv.bg,dimitar
 14299,yurij.a,yurij.a.83@mail.ru  ,08061983
 14300,Juris,jurmi@inbox.lv,mi0904
-14301,krissu83,meriv\xe4lja,muusika
+14301,krissu83,merivälja,muusika
 14302,ragnetom,ragne@epcc.ee,saast2
 14303,zsBaltini,zsbaltini@inbox.lv,Baltinizs
 14304,bimbargo,bimbargo@abv.bg,WalNutRoad6988
@@ -9803,14 +9803,14 @@
 14322,Liran,a.balabkin@mpe.lv,Liran2012
 14323,miles2@bigpond.com,miles2@bigpond.com,euphorbia
 14324,laev1,peeter.puusild@mail.ee,peeter12
-14325,Kristina B\xe4ckstr\xf6m,kristina.backstrom@gmail.com,ottopojk
+14325,Kristina Bäckström,kristina.backstrom@gmail.com,ottopojk
 14326,Nidalius,Nidal.kersh@gmail.com,na1h8a1rya1121
 14327,laila111,laila.ausmees@gmail.com,triibu
 14328,ElisabethUrban,elisabeth2urban@gmail.com,Spaces9933
 14329,Airekas,airepitk@gmail.com,palmiste
-14330,j\xfcrka666,jyrkajulm666@gmail.com,persevest72
+14330,jürka666,jyrkajulm666@gmail.com,persevest72
 14331,kohtoff,rkohtov@gmail.com,starover
-14332,Apr\xf3var\xe1zs Kft.,aprovarazs@gmail.com,Zs01Ha07
+14332,Apróvarázs Kft.,aprovarazs@gmail.com,Zs01Ha07
 14333,titimiti007,margus.joost@mail.ee,86825
 14334,kittyg,kittyg@hot.ee,giatkit
 14335,paivi,elucca@hotmail.fi,tarhuri
@@ -9888,8 +9888,8 @@
 14409,mammabear,karhu.helena@suomi24.fi,plutonium1
 14410,Talpsepp,leelo@lvkrk.ee,Tamm03
 14411,Palokaee,eevakaisa.palokangas@gmail.com,2213ekp
-14412,l\xe4nkur,perimahemois@gmail.com,kaarhall
-14413,Osvald,osvald.julm@mail.ee,k\xe4rneriks
+14412,länkur,perimahemois@gmail.com,kaarhall
+14413,Osvald,osvald.julm@mail.ee,kärneriks
 14414,maragailane,gailanemara@inbox.lv,sponsors
 14415,Daija82,taijautriainen@suomi24.fi,160882t
 14416,antoniq2001,iskar2005lakatnik@abv.bg,lakatnik
@@ -9911,7 +9911,7 @@
 14432,Liisu82,liisi.suursalmi@gmail.com,jokihaara
 14433,hooaednik,lenk.lemmi@gmail.com,aiahobi
 14434,sirlisabiin@hot.ee,sirlisabiin@hot.ee,sire1234
-14435,Eerika,paikeseratas.kollane@mail.ee,rohen\xe4pp
+14435,Eerika,paikeseratas.kollane@mail.ee,rohenäpp
 14436,JOLKINA74@hot.ee,JOLKINA74@hot.ee,Tibukene38
 14437,Ivan_kop,kopsam@tut.by,padtynnik
 14438,albert234,albert123@hot.ee,patupoiss2
@@ -9939,7 +9939,7 @@
 14461,kurre,jan.west@hotmail.fi,v4v4oioi
 14462,Mimimus,e-marie.olsson@home.se,Rosa68Kent
 14463,HeeLaa,heidi.lauren@saunassa.com,h4377h
-14464,Kukkahattut\xe4ti,powie73@gmail.com,Kukkahattu
+14464,Kukkahattutäti,powie73@gmail.com,Kukkahattu
 14465,chalendard,cd43@free.fr,davidc43
 14466,sille.lapp,sille.lapp@ametikool.ee,Ytrewq
 14467,SilvaKasemets,silva.kasemets@just.ee,Lepatriinu118
@@ -9970,7 +9970,7 @@
 14492,hedesunda,connie.eliasson@gavle.se,sommarsol
 14493,sugarette,rokki-iita@hotmail.fi,kakkara22
 14494,imbimitt,imbi.mitt@mail.ee,viljakas
-14495,seeder,kalev.mandel@gmail.com,m\xe4nd
+14495,seeder,kalev.mandel@gmail.com,mänd
 14496,anneliia,anneli.tampold@luts.ee,anne19
 14497,Tammike,marina.tammissaar@gmail.com,Tammike
 14498,maiunurmik,maiunurmik@hot.ee,654321
@@ -9983,7 +9983,7 @@
 14505,Singrida,innngrida@yahoo.com,zemkute1
 14506,Kiramet,kirsi.maki@kiramet.com,muo1poi2
 14507,almiina,sinikka.jaskari4@luukku.com,huikopala
-14508,Gelashemochtr\xe4dgÄºrd,gelashemochtradgard@gmail.com,19601971
+14508,GelashemochträdgÄºrd,gelashemochtradgard@gmail.com,19601971
 14509,spaceair,borut1.brglez@gmail.com,matejmisic
 14510,Bennet Oberg,bennet@essvik.com,mepalmin
 14511,Natalja Grekovits,nata.grekovits@mail.ru,Ag081269
@@ -10004,7 +10004,7 @@
 14526,netti99,jane.trel@mail.ee,nettinelli
 14527,Minnaryyni,minna.pelkonen@pp2.inet.fi,Minnaryyni
 14528,jfo1@hotmail.fr,jfo1@hotmail.fr,jf3110jf
-14529,jean-fran\xe7ois,jfo1@hotmail.fr,jf3110jf
+14529,jean-françois,jfo1@hotmail.fr,jf3110jf
 14530,Danguole10,vaida.jauneikaite@gmail.com,zibuokle
 14531,piochu,drzycimski.piotr8@gmail.com,niezapomnij
 14532,Joy Michaud,joy.michaud@btinternet.comoy,Ppeppers
@@ -10087,20 +10087,20 @@
 14609,miizbet,monika.mikiver@gmail.com,Va1nu2013
 14610,Lilyy,vh123@hot.ee,Unoloop
 14611,JAGR,jagr2108@mail.ru,309bgl
-14613,SiniVirkaj\xe4rvi,sini.virkajarvi@gmail.com,HkKv78Sv
+14613,SiniVirkajärvi,sini.virkajarvi@gmail.com,HkKv78Sv
 14614,arsen,ruusna@hot.ee,kuzma
 14615,reltsu,reelika1982@hotmail.com,rakvereGP8
 14616,mart-a@mail.ru,mart-a@mail.ru,igorson
-14617,Harri M\xe4gi,harrimagi@gmail.com,241138hm
+14617,Harri Mägi,harrimagi@gmail.com,241138hm
 14618,maaler7,maaler7@hot.ee,nartsiss
 14619,migluzez,virginija.ozeraityte@gmail.com,savatelim123
-14620,Annikakene2000,annikalukk@hot.ee,p\xe4ikesekiir
+14620,Annikakene2000,annikalukk@hot.ee,päikesekiir
 14621,maasikad,liis.parnpuu@gmail.com,beltoi
 14622,ritenieks005,ritenieks@inbox.lv,berline
 14623,pekkahenrikpajunen,pekkahenrikpajunen@gmail.com,mikael
-14624,StinasGr\xf6na,kristina.wallinder@telia.com,dagge5
+14624,StinasGröna,kristina.wallinder@telia.com,dagge5
 14625,Ylvas,ylva.aberg@telia.com,filen18
-14626,Bondj\xe4ntan,johnna.gilljam@gmail.com,jonas36
+14626,Bondjäntan,johnna.gilljam@gmail.com,jonas36
 14627,sannabjorklund,sanna.bjorklund@gmail.com,lafamilia
 14628,zeiser,tellervo_peltonen@hotmail.com,kukkatelle
 14629,anna.pentti,anna.pentti@hotmail.com,augusta82
@@ -10116,10 +10116,10 @@
 14640,Tyra ,tilltyra@gmail.com,TyrasEstland
 14641,eneli28,vaidre.eneli4@gmail.com,krussike
 14642,kritten,krittenart@gmail.com,vurrvurr
-14643,K\xe4rt Juhasoo,kjuhasoo@mfa.ee,2Pruunkana
+14643,Kärt Juhasoo,kjuhasoo@mfa.ee,2Pruunkana
 14644,kumpsu,minna.koskela12@gmail.com,Janakkala
 14645,Capabcn,capabcn@msn.com,07Adrian
-14646,Renata Sruogien\xeb,aguona@gmail.com,150866
+14646,Renata Sruogienë,aguona@gmail.com,150866
 14647,maini.niiles@kolumbus.fi,maini.niiles@kolumbus.fi,Cvolpino5
 14648,krixsis,krixsis1989@tvnet.lv,clawfinger
 14649,lillekyla,lillekyla@yahoo.com,viissada
@@ -10131,7 +10131,7 @@
 14655,savrat,savrat@hot.ee,8264Kallis
 14656,terje120,terje.martinson@mail.ee,emmaste
 14657,kamara,tatjana.toropova@mail.ru,lantana57
-14658,andresm,M\xe4gi,Nailtrail
+14658,andresm,Mägi,Nailtrail
 14659,mann,anuuibopuu@gmail.com,anuanu123
 14660,Retkova,irina.retkova@mail.ee,eedi
 14661,Nubukki,marke.hovi@gmail.com,orkidea
@@ -10218,11 +10218,11 @@
 14742,lymets25@hot.ee,lymets25@hot.ee,potsu
 14743,honja,supermoder@gmail.com,Nikitka03
 14744,Tangopelargonia,a-m.puurunen@hotmail.com,Basti
-14745,k\xe4blik,ingeinge@hot.ee,lossimammi
+14745,käblik,ingeinge@hot.ee,lossimammi
 14746,aili.animagi@gmail.ee,aili.animagi@gmail.com,kapsas88
 14747,akujanpaa@hotmail.com,akujanpaa@hotmail.com,harkatie
 14748,sven@kristiansen.nu,sven@kristiansen.nu,staltorp
-14749,Str\xf6mstedt,Ljuvligheter@telia.com,78788891
+14749,Strömstedt,Ljuvligheter@telia.com,78788891
 14750,liis129,liis129@hot.ee,Bvulgar1
 14751,Petty,eleri.laidma@gmail.com,Petu77
 14752,gerrit,gerrit.kaspri@mail.ee,annavana
@@ -10246,7 +10246,7 @@
 14770,SiiriU,siimlyys@gmail.com,heliotroop
 14771,aholasu,s_ahola@hotmail.com,See1109
 14772,viherpeukku,lak@hotmail.fi,tt462
-14773,tiinasillam\xe4e,tiina.sillamae@gmail.com,tinnu
+14773,tiinasillamäe,tiina.sillamae@gmail.com,tinnu
 14774,Auri,hoyalacunosa@gmail.com,galenos
 14775,Kalkad,Kadri@naxti.ee,beibsibeil
 14776,savolainenhannamari,savolainenhannamari@gmail.com,viuhtinen1
@@ -10274,7 +10274,7 @@
 14798,lyyli,pirkko.korventausta@dnainternet.net,pikorven
 14799,Vusserdis,kriss1973@hot.ee,Opossum1108
 14800,algis,kataniss@gmail.com,adomas
-14801,davidwane,soc00dwa@student.lu.se,estfr\xf6666
+14801,davidwane,soc00dwa@student.lu.se,estfrö666
 14802,Zanerostokina4455,zane4455@inbox.lv,basalts2204
 14803,parem_saabas,madis@evilgiraf.com,midagimuud
 14804,metsalill,mari.paas@mail.ee,sÅ‘najalg
@@ -10303,7 +10303,7 @@
 14827,sigre,sigremurakas@hotmail.com,kodukakk
 14832,eedi,edaneeme@gmail.com,bandit
 14833,heinopai,paivi.heinonen63@hotmail.fi,29helena
-14835,Riina J\xe4rvek\xfclg,riina.jarvekylg@politsei.ee,riinake
+14835,Riina Järvekülg,riina.jarvekylg@politsei.ee,riinake
 14836,siku75,siku1975@hot.ee,krissu1406
 14837,salislepa,kristelvaarmann@hot.ee,krassu
 14838,kiirluup,kiirluup@gmail.com,seemnemaailmasalas6na
@@ -10340,7 +10340,7 @@
 14869,maripihl,mari.pihl@mail.ee,saaremaa
 14870,anneliliblik,anneli@laulasmaamiku.ee,Annette2003
 14871,alice64,ailira@hot.ee,Katarina00
-14872,Vahes\xf6\xf6di,terje1@terviklik.ee,fiffee
+14872,Vahesöödi,terje1@terviklik.ee,fiffee
 14874,jaroslav,kaan@centrum.sk,147852369
 14875,diamax,dianka@solo.ee,58081167
 14876,anntamm9,anneli@kodu24.ee,ronann2005
@@ -10394,7 +10394,7 @@
 14926,beritpendis@hotmail.com,beritpendis@hotmail.com,Berit1983
 14927,nelk,ljudmilapostolova@gmail.com,kastani15
 14928,PiretJ,Piret,050868
-14929,alberd,savolainenallan@gmail.com,r\xf6lli
+14929,alberd,savolainenallan@gmail.com,rölli
 14930,Galina1960,diva.6060@mail.ru,21852855
 14931,emmeriine,riin.rk@gmail.com,mezymumm
 14932,phoenix0011,teameriste@hotmail.com,1mm2mm
@@ -10409,7 +10409,7 @@
 14941,angelica,angelica.holmlund@telia.com,maya
 14943,Emily2006,sveta_kinderova@itk.ee,5227
 14944,kaisi18,kaisi.kartmann@gmail.com,700masqwe
-14945,anuar,anuar@hot.ee,k\xe4tlin
+14945,anuar,anuar@hot.ee,kätlin
 14946,moonikaaus@hotmail.com,moonikaaus@hotmail.com,sitsipella
 14947,Teer,rosenbergreet@gmail.com,Kunksmoor
 14948,scorpio11,scorpio11@hot.ee,kuuskt
@@ -10421,7 +10421,7 @@
 14955,Dianak,dianagryner@gmail.com,Arligryner25
 14956,Arne Armuand,arne.armuand@gmail.com,Hugo007
 14957,aiahool,lenk.lemmi@gmail.com,hooaed
-14958,Reet karuk\xe4pp,reetkarukapp@gmail.com,msostar
+14958,Reet karukäpp,reetkarukapp@gmail.com,msostar
 14959,janne18,martonjanne@gmail.com,marton
 14960,ausrene@hot.ee,ausrene@hot.ee,Rauno2aus
 14961,SeSilja,anne.louko@pp.inet.fi,?SeS1lja?
@@ -10468,7 +10468,7 @@
 15003,meelika1,merka005@hot.ee,minumusi
 15004,krasomila,jsemzeman@gmail.com,traktor
 15005,tyjoki,teaylijoki@gmail.com,koskenranta
-15006,reetel,reethelimets@hot.ee,Apatsim\xe4e4
+15006,reetel,reethelimets@hot.ee,Apatsimäe4
 15007,Kollane lepatriinu,reelika.koppel@gmail.com,joe on tubli koer
 15008,canan,matcan33@hotmail.com,canan
 15009,seedridaam,elupuu@gmail.com,kadakas
@@ -10485,7 +10485,7 @@
 15021,pirets,piret.segasaar@magnum.ee,magnum
 15022,vunzpunz,maarika_m@hotmail.com,malekool
 15023,kotiniemi,kotiniemi@hotmail.fi,muista
-15024,carolins\xfclla,carolinsylla@gmail.com,carolin13
+15024,carolinsülla,carolinsylla@gmail.com,carolin13
 15025,reetta.lappalainen@yahoo.com,reetta.lappalainen@yahoo.com,mestari
 15026,kassu,maarika@jpbi.ee,kassu1987
 15027,karmen.markus,karmen.markus@mail.ee,karmen22
@@ -10532,7 +10532,7 @@
 15070,maijukka,maija-liisa.ratia@kymp.net,joonas
 15071,reedakas,reet.ramson@gmail.com,Reedakas1
 15072,artur48,artur48@hot.ee,kalamees1
-15073,Riina H\xe4rm,renisemb@gmail.com,abcdefgh
+15073,Riina Härm,renisemb@gmail.com,abcdefgh
 15074,tiger,annabi@netikka.fi,kamabackan
 15075,Ronja,elle.sikka@gmail.com,kass
 15076,Bibily,muska30@hot.ee,Polo98aasta
@@ -10586,7 +10586,7 @@
 15126,Reeda,reeda.agan@mail.ee,reeda
 15127,katariina,katrin@maaturism.ee,tallinnast
 15128,kostet1972,konstantin.arhipov@energia.ee,kostet97
-15129,Aime V\xe4ronen,aime.varonen@gmail.com,lilleoja
+15129,Aime Väronen,aime.varonen@gmail.com,lilleoja
 15130,enelatoomel,enelakaasik@hot.ee,salamander
 15131,Julia_Urbala,julia13139@hotmail.com,Juliaurbala
 15132,ploom30,ploom30@hot.ee,Ratsud12
@@ -10594,7 +10594,7 @@
 15134,Taagepera,maarikamottus@hot.ee,Laanegu
 15135,pipipikksukk,kurrunurruvutisaar@hot.ee,pikksukk
 15136,VaPa,katjalai@luukku.com,Lami47
-15137,sh\xf6\xf6rly,sirlisiki@gmail.com,maasikas
+15137,shöörly,sirlisiki@gmail.com,maasikas
 15138,miri_@hotmail.fi,miri_@hotmail.fi,emilia
 15140,Hobiaednik1,katitaaber@gmail.com,Lihtnenagu123
 15141,liisimagi,liisimagi.dis@gmail.com,lammasmacu3
@@ -10639,7 +10639,7 @@
 15181,aita,aita.tavast@gmail.com,joosu
 15182,Mairi Paiste,mairi@vettel.ee,Anna04.11.08
 15183,jbrokvist,jens.brokvist@gmail.com,aprilfem
-15184,kev\xe4t2013,huuhkain@gmail.com,tilaus
+15184,kevät2013,huuhkain@gmail.com,tilaus
 15185,Alex,aleksey.granatkin@yandex.ru,ctvtyfbp`cnjybb
 15186,Anu Henn,anu.henn@delux.ee,Anu1960
 15187,eva kuik,eva_kuik@msn.com,ravi2juhend
@@ -10706,7 +10706,7 @@
 15248,katreojaste,katre.ojaste@gmail.com,bitesdust3
 15249,rein.tontson,rein.tontson@gmail.com,Allika1954
 15250,karileo2,karileo2@gmail.com,karileo1
-15251,K\xfcllikeLaanemets,kyllike.laanemets@mail.ee,lepalaane
+15251,KüllikeLaanemets,kyllike.laanemets@mail.ee,lepalaane
 15252,eppukas,eppukas@hot.ee,Tolmusk1
 15253,chrissa,chrissa@hot.ee,kreiol
 15254,Mustykas112,onne.timberg.001@mail.ee,Onne21
@@ -10853,7 +10853,7 @@
 15395,zanne,riitta.tuomiaro@gmail.com,vimpula1
 15396,rasaar,rait.saar1@gmail.com,Kanasitt
 15397,jaryson,hledenec@centrum.cz,jaroslav
-15398,maia k\xfcngas,maia5301@hotmail.com,kevad13
+15398,maia küngas,maia5301@hotmail.com,kevad13
 15399,TatjanaK,karinkook@hotmail.com,KatuMaarika
 15400,vilipson,ringa.roivas@mail.ee,baxter
 15401,svetlanake,svetaantonova@hotmail.com,toaaken
@@ -10865,7 +10865,7 @@
 15407,Tiiu MÅ‘istlik,tm70@hot.ee,Kalasaba1
 15408,minna.sorvoja,minna.sorvoja@filmona.fi,mjs0112
 15409,tdk077,tdk077@hot.ee,nataly
-15410,T\xe4pike,tjarvoja@gmail.com,Terjekene
+15410,Täpike,tjarvoja@gmail.com,Terjekene
 15411,meloun,vojtechslavetinsky@seznam.cz,melounmeloun
 15412,msorvoja,msorvoja@me.com,minna66
 15413,rimi,rimi.naouelle@yahoo.fr,kamila
@@ -10905,7 +10905,7 @@
 15447,Janku,janikatamm@hotmail.com,kisame12//*
 15448,Ilvez,martin.ilvez@gmail.com,duudson1T
 15449,kasakasa,heidi_peltola@suomi24.fi,kepu2010
-15450,jaanam\xe4gi,rohelinekalda@gmail.com,2eaz08pq
+15450,jaanamägi,rohelinekalda@gmail.com,2eaz08pq
 15451,alarveskus,alarveskus@hot.ee,rala
 15452,reetraud,reet.iron@gmail.com,winston
 15453,allimalli,tikkanenjoona@gmail.com,mallialli
@@ -10986,7 +10986,7 @@
 15528,Atiram,maritalind@gmail.com,nokia2m
 15529,dsumansiii,mariliis.tiisler@gmail.com,maeitia
 15530,ene.mihkelson.1951@hotmail.com,ene.mihkelson.1951@hotmail.com,kudumine
-15531,kev\xe4t ,raija.kurki@kopteri.net,kes\xe4
+15531,kevät ,raija.kurki@kopteri.net,kesä
 15532,Anne Poolak,anne57@hot.ee,UuepÅ‘lde
 15533,samton,samton7@hotmail.com,Kirmas
 15534,kurg,hobusesabatutt@hot.ee,mesi
@@ -11028,7 +11028,7 @@
 15571,vladap,vladimir.picka@gmail.com,MCJese12
 15572,tantor,tan_tor@suomi24.fi,chiaqu4r
 15573,Sirelill,Sirelll@hotmail.com,Orella64
-15574,Perennial,irma@kassikapp.ee,kassik\xe4pp
+15574,Perennial,irma@kassikapp.ee,kassikäpp
 15575,paavo.kuuseok,paavo.kuuseok.001@mail.ee,pnn1pnn1
 15576,urki,urve.kirch@seb.ee,seeme1
 15577,kehasalu,kehasalu@gmail.com,l1fefullSM
@@ -11064,14 +11064,14 @@
 15608,mariurb,marika.aavasalu@mail.ee,Lau2As
 15609,ago blaat,sikusarv@hotmail.com,kellakott3
 15610,Kairemii,Miiter,maasikas7
-15611,j\xfcripalling,yuri.palling@g-mail.com,789456
+15611,jüripalling,yuri.palling@g-mail.com,789456
 15612,Karokukka,snpori@gmail.com,Sa20garo13
 15613,Ploomilma,merikeberklund@hotmail.com,Kasikur
 15614,Pterocarya,lauri.oesch@netti.fi,Rhoifolia
 15615,viimietti,viimietti@hot.ee,raamat12
 15616,eljohvi,shapovalovid@hot.ee,mooses
 15617,helentr,hlntreial@gmail.com,kirjand13
-15618,K\xe4thlyn TÅ‘nuvere,kaths12@hot.ee,karuke
+15618,Käthlyn TÅ‘nuvere,kaths12@hot.ee,karuke
 15619,ciombocka,veronika.cerniene@gmail.com,19760122
 15620,AJGrupp,andrei@ajgrupp.ee,15TukTuk
 15621,kallipets,kalli.pets@muinas.ee,petsike
@@ -11101,7 +11101,7 @@
 15645,lalynx,pisi.kablakas@mail.ee,474871
 15646,ingridmaripuu,ingridmaripuu@hot.ee,Raivo1962
 15647,a1010,a1010@hot.ee,Seemned10
-15648,Prolonni,liinasober@hot.ee,aniilt\xf6\xf6s
+15648,Prolonni,liinasober@hot.ee,aniiltöös
 15649,olinjanne,janne.olin@wippies.com,12vanja6
 15650,liivlane,hanno.saks@gmail.com,Hann05ak5
 15651,raivo204,raivo204@hot.ee,RT5719
@@ -11110,7 +11110,7 @@
 15654,antonklok,antonklok@yahoo.se,a1edg23l
 15655,Merkaba,triipsu@gmail.com,Citrullakt13
 15656,robinson,merike66@email.ee,donna
-15657,k\xe4rnkonn,teet@geost.ee,siim12
+15657,kärnkonn,teet@geost.ee,siim12
 15658,Anatoli,anatolifin@gmail.com,a5524709
 15659,tsiko,simigo@hot.ee,pannkook
 15660,tiinatorva,tiinatorva@hotmail.com,murike10
@@ -11182,8 +11182,8 @@
 15729,hiirekÅ‘rv,virve.metsis@gmail.com,vyru00
 15730,Mariakeernik,maria.sokmann@gmail.com,thismess
 15731,Darko,drofenik.nina@gmail.com,drofa
-15732,meelespea,hedi.co@mail.ee,p\xe4ike
-15733,yuqu,yuqu@hot.ee,m\xfcrakaru
+15732,meelespea,hedi.co@mail.ee,päike
+15733,yuqu,yuqu@hot.ee,mürakaru
 15734,ZABETH,elisabeth.leleu@sfr.fr,JVa94m
 15735,tinka,tiina.pilvar@gmail.com,kallis
 15736,salmeluise,salmeluise@hot.ee,berit44
@@ -11192,14 +11192,14 @@
 15739,steningmar,eve.jugomae@gmail.com,bessyke
 15740,ookull,ellen@joelahtme.ee,karukell
 15741,jole,johan@moltin.com,peter1966
-15742,Sunflower,maaria.rei@gmail.com,M\xe4gisibul
+15742,Sunflower,maaria.rei@gmail.com,Mägisibul
 15743,Samkel2,helismauel@hot.ee,Kunksmoorikene99
 15744,abimopectore,tiina@sarapiku.net,160691
 15746,Kuldtiib ,pirje.pappel@gmail.com,minuseemned
 15747,Viu,viu123@gmail.com,pn701k
 15748,koila,ottja@hot.ee,kalhop
 15749,pille1984,pille935@gmail.com,sahkai
-15750,k\xfclle,kullesahkai@hot.ee,jilli
+15750,külle,kullesahkai@hot.ee,jilli
 15751,kevadkevad,ullamolder@gmail.com,armastav39
 15752,Sirlily,sirli.kokk@gmail.com,13121981seemnemaailm
 15753,vegam,marevega@gmail.com,columps
@@ -11222,7 +11222,7 @@
 15771,kiira89,poppipanija@hot.ee,muusika
 15772,jaanika.pool,jaanika.pool@gmail.com,janita16
 15773,kynsar,kynsar@gmail.com,kaardimaja
-15774,eglemaetaga,M\xe4etaga,slavjanb
+15774,eglemaetaga,Mäetaga,slavjanb
 15775,ivle,elvikuusmaa@hot.ee,gorilla
 15776,aimeke1,aimeke1@hot.ee,Mikotalo
 15777,aniir,riinauisk@gmail.com,omasaar
@@ -11233,7 +11233,7 @@
 15782,sepaemand,aira@sepikoda.ee,kriblik
 15783,Roy,roy.strider@tibet.ee,tramps
 15784,Inxxu,inga.annast@gmail.com,Hosting881S
-15785,jtpnen,juho.pohjonen@saunalahti.fi,y\xf6viulu
+15785,jtpnen,juho.pohjonen@saunalahti.fi,yöviulu
 15786,minoq,kylli@hotmail.com,henri6joosep
 15787,Signemai,signemai.sutt@mail.ee,signe9
 15788,kerlyna,kerlin.piigli@mail.ee,dsiinid
@@ -11257,7 +11257,7 @@
 15806,poire,poir@post.sk,poire
 15807,Hambidge,hannak@solo.ee,viola06
 15808,signe777,signe.suurmets@mail.ee,raiv777
-15809,Triini,triin.pani@gmail.com,p\xe4ikesesilm12
+15809,Triini,triin.pani@gmail.com,päikesesilm12
 15810,ducrocq,j_ducrocq@orange.fr,Jil1a9Mt
 15811,Alla Sedunova,Sedunova.Alla@mail.ru,Amerika351
 15812,ostka,kairi.ostrat@gmail.com,qAz1wSx2
@@ -11275,7 +11275,7 @@
 15824,kinako,dear-sir@shirakami.or.jp,kuneko
 15825,Afanasieva Anna,Afannasieva@gmail.com,Fraggle
 15826,annavostr,0097bkru@gmail.com,sergeyvostrikov1
-15827,s\xf6dervik,info@rumpomae.ee,katarina
+15827,södervik,info@rumpomae.ee,katarina
 15828,mazaa_laurinja@hotmail.com,mazaa_laurinja@hotmail.com,ugis1990
 15829,frency70,cosmapan@virgilio.it,jj1114am
 15830,enekas66@hotmail.com,enekas66@hotmail.com,miumiukas22
@@ -11312,7 +11312,7 @@
 15861,akita49,juri.kattel@gmail.com,19cabodaroca49
 15862,Binelux,j.burkova@binelux.com,Ishanov2011
 15863,seppi,seppi@hot.ee,Aliki1989
-15864,Rii-na,riina.net@gmail.com,nen\xf6l\xf6P
+15864,Rii-na,riina.net@gmail.com,nenölöP
 15865,regina221,regina.arukase@gmail.com,Taheloeb1
 15866,reimz,minaisiklikult@hotmail.com,minuoma
 15867,andrewj,andrewj@hot.ee,tervis
@@ -11333,7 +11333,7 @@
 15882,mrokka@luukku.com,mrokka@luukku.com,m4rj4tt4
 15884,jass0019,oja@neti.ee,tuluke
 15885,pkeurope,pkeurope@yahoo.com,ajusat
-15886,muia,aasmamaiu@gmail.com,k\xfclaeit
+15886,muia,aasmamaiu@gmail.com,külaeit
 15887,ananke,kristiinakybar@gmail.com,maasikas
 15888,Rein idast,kirireinule@gmail.com,Lauri1993
 15889,jelena ziedjalis,ziedjalis,090187160683
@@ -11421,11 +11421,11 @@
 15971,mairakrievane@inbox.lv,mairakrievane@inbox.lv,Margarita
 15972,reetkaasik,reet.kaasik53@gmail.com,scarlet2008
 15973,Anmolgardens,anmolgardens@telkomsa.net,sumeith
-15974,KaidiR\xe4mman,kaidi.ramman@gmail.com,Raasuke31
+15974,KaidiRämman,kaidi.ramman@gmail.com,Raasuke31
 15975,aiki,aiki.viilup@mail.ee,pahakutt
 15976,Gamta,gtess@mari.omnitel.net,falinski
 15977,lidia13,lobus.lidia@gmail.com,tlikthr/6
-15978,v\xe4ike my,iivika@hotmail.com,mathias1
+15978,väike my,iivika@hotmail.com,mathias1
 15979,Jester,jester.rot@gmail.com,lilikanter
 15980,Rell,reeli.kerro@gmail.com,kuusalu
 15981,Tilpparus,kaisa.jarvi@gmail.com,Haisuli
@@ -11568,13 +11568,13 @@
 16120,Pomidor,Maria_Hildebrand@web.de,talpa84
 16121,fredd01,fredd@planet.ee,leclec5
 16122,anna3277,anna.sedoseva@mil.ee,anjuta
-16123,linnunet,signesaluaar@gmail.com,rohen\xe4pp
+16123,linnunet,signesaluaar@gmail.com,rohenäpp
 16124,kairieil,kairieil@neti.ee,maotee77
 16125,Moonika Dokka,moonika.dokka@gmail.com,3mtx4ofp
 16126,rickchallinor,rickchallinor@hotmail.com,bluesman69
 16127,da_na22,da_na22@inbox.lv,kvalifikacija
 16128,Angelika,ounangelika@gmail.com,Elina
-16129,Mari\xe1n Kov\xe1Ä,martin.kovac.snv@gmail.com,0902776116
+16129,Marián KováÄ,martin.kovac.snv@gmail.com,0902776116
 16130,Dizii,mittemina1@gmail.com,Verner22
 16131,bigouden,brunofournier@free.fr,EMY83
 16132,ladom,ladislav.matelic@gmail.com,uzi001
@@ -11597,7 +11597,7 @@
 16150,johannamargret,johanna.margret.kakko@gmail.com,Heavensent
 16151,anakonda,monika.l22ts@gmail.com,franko
 16152,HundundKatze,s-wittmann88@gmx.de,SyH42m!
-16153,Rumpali,kivinen.kirsi@gmail.com\xa8,Rumpali8
+16153,Rumpali,kivinen.kirsi@gmail.com,Rumpali8
 16154,suurpere4last,suurpere4last@hotmail.com,1Koerlaps
 16155,jaanaruste,jaan.aruste@mail.ee,conna85
 16156,lind.maire@gmail.com,lind.maire@gmail.com,magdaleena
@@ -11624,7 +11624,7 @@
 16177,Virknirk,karin_nov@yahoo.com,peoleo
 16178,LukaKuka,elina.marjakoski@gmail.com,061077Pepa
 16179,oleesia7,inglipai@gmail.com,adeele
-16180,P\xe4tu,lillekesed40@hot.ee,ilupuu
+16180,Pätu,lillekesed40@hot.ee,ilupuu
 16181,liso,lis.olesen@email.dk,israel
 16182,tiina.arras,tiina.arras@eesti.ee,!awd486!
 16183,AHelmi,helmi_ahte@yahoo.co.uk,helmia
@@ -11673,7 +11673,7 @@
 16227,helgi3,sorgukunn.ss@mail.ee,killer1
 16228,irena76,irenamovic@gmail.com,irena123
 16229,fenyxdylan@gmail.com,fenyxdylan@gmail.com,sabibiza
-16231,v\xe4ikemy,merle.zibo@mail.ee,v2ikemy
+16231,väikemy,merle.zibo@mail.ee,v2ikemy
 16232,Pilvi,pilvi.joemagi@mail.ee,Bella22
 16233,Innariin,inna.regiina@mail.ee,kuldnoka
 16234,liva,livucitis118@inbox.lv,viktorsdina
@@ -11709,7 +11709,7 @@
 16267,Maria Agasieva,maria.jegorova@gmail.com,mari01
 16268,algiambos,algi.ambos@gmail.com,algi69
 16269,anksikene211,angelika.rusika.001@mail.ee,anksukene211
-16270,Veronika R\xe4ih\xe4,jakarta81@gmail.com,Ve556684a
+16270,Veronika Räihä,jakarta81@gmail.com,Ve556684a
 16271,jusikus,Skripkina,jukus109
 16272,tamapa,pajus@rambler.ru,maltan
 16273,medusae,krista.perala3@gmail.com,QY34fiP9
@@ -11730,7 +11730,7 @@
 16288,Sanndra,sandra.grabovska@gmail.com,avonladysandra
 16289,chessu,cheslav.nikitin@gmail.com,nikitin
 16290,miizu,liina233@hot.ee,anni55
-16291,IngridM,M\xfc\xfcrsalu,m\xfcrsik
+16291,IngridM,Müürsalu,mürsik
 16292,DaigaK,daiga.kante@inbox.lv,3010ziemCietes2013
 16293,lariata,mummj@mail.ru,mitaika06
 16294,natalotska,50mars@meil.ru,tramm
@@ -11756,7 +11756,7 @@
 16314,dora,ivars.vitols3@inbox.lv,dora
 16315,sadovnik,m.n.07@list.ru,qwer12345
 16316,kristare,krista.ress@gmail.com,Relsiik
-16317,catharina.westermark@gmail.com,catharina.westermark@gmail.com,ramsl\xf6k
+16317,catharina.westermark@gmail.com,catharina.westermark@gmail.com,ramslök
 16318,Leila1,Leila.Jurimae@gmail.com,MÅ‘mmi1
 16319,brunofournier,brunofournier@free.fr,bigouden
 16320,Genita.fer,genita.fer@gmail.com,peregrina
@@ -11778,9 +11778,9 @@
 16336,Leontinas,nadezda.lipp@gmail.com,211077
 16337,jaroslav1,kaan@centrum.sk,qwertzuiop
 16338,natalja1,natalja1@hotmail.com,341018
-16339,Viive K\xfcpar,viivek55@hotmail.com,vladimir
+16339,Viive Küpar,viivek55@hotmail.com,vladimir
 16340,Margit7504,margit7504@hot.ee,Margit7504
-16341,edith,Eelma,p\xe4ike
+16341,edith,Eelma,päike
 16342,fransvanderhelm,helm123@kpnmail.nl,toegSEEM556
 16343,Hepsu,helen.pallo@gmail.com,taimeksed
 16344,Mikasso,mikans.jelena@gmail.com,Kenguru13
@@ -11815,7 +11815,7 @@
 16373,edemae,edemae@hotmail.com,maekas
 16374,mama-von-annina,speedey@gmx.de,brotkasten1
 16375,hakanboman,hakan_boman@hotmail.com,keruva13
-16376,Laurim\xe4e,evalaurimae@gmail.com,Laurimae55
+16376,Laurimäe,evalaurimae@gmail.com,Laurimae55
 16377,juustafa,justina.zilenaite@gmail.com,gandonas1980
 16378,barsik22,olga.murula@list.ru,olga25
 16379,Leffebys,leif.bystrom@burtrask.com,12Leffebys
@@ -11866,9 +11866,9 @@
 16424,merle110372,merle110372@hot.ee,merleen
 16425,annika181,annika181@hot.ee,lennuk181
 16426,rmarikene,rmarikene@gmail.com,1lillebi1
-16427,tiina sillam\xe4e,tiina.sillamae@gmail.com,kiki
+16427,tiina sillamäe,tiina.sillamae@gmail.com,kiki
 16428,Elmi Moilanen,elmi.m@luukku.com,ruusut
-16429,nim59sd ,mitrofanov_n\xed@abv.bg,nikolaj1
+16429,nim59sd ,mitrofanov_ní@abv.bg,nikolaj1
 16430,stopford,v.verhovskis@mail.ru,29614029
 16431,avgusta-29,avgusta-29@yandex.ru,genrih
 16432,BlueCrane,kxb@earthlink.net,ulxch#tlcn
@@ -11946,7 +11946,7 @@
 16504,Aive41,maelteleri@gmail.com,Eleri123
 16505,ljevgrafova,ljevgrafova@mail.ru,vologda
 16506,Ellenkirsileht,ellenkirsileht@hot.ee,ellenn
-16507,Sunfreak,michael-schaeffner@web.de,ZwTPkGQ\xf6=fG6E]_f
+16507,Sunfreak,michael-schaeffner@web.de,ZwTPkGQö=fG6E]_f
 16508,Svetlana  Vesna,Aleksei.Kabanov@gmail.com,28091966
 16510,AILIN,pupsik533@hotmail.com,veneritta
 16511,jekimo,Jekimov-Kull,jekimo
@@ -11990,7 +11990,7 @@
 16550,Lucie77,mila@stv.ee,maleva55
 16551,c prior,colinprior37@yahoo.com,agr115b
 16552,SANDRA MORKUNE,sandramorkune@inbox.lv,santander25
-16553,Lep\xe4njuuri,sonja.ahlroth@gmail.com,monteverde
+16553,Lepänjuuri,sonja.ahlroth@gmail.com,monteverde
 16554,aed75,aita.laugmaa@tlu.ee,aiandus
 16555,jolantavazniene,jolantavazniene@gmail.com,laikas767
 16556,franz.schweinberger@yahoo.de,franz.schweinberger@yahoo.de,benco1
@@ -12045,7 +12045,7 @@
 16605,kullasaar,vsarapik@gmail.com,Joona3
 16606,potsu73,monika.raidma@gmail.com,aadusepp
 16607,Mailika,piibe6@gmail.com,karla
-16608,Tiina Liivam\xe4gi,tiina@siet.ee,tiinali
+16608,Tiina Liivamägi,tiina@siet.ee,tiinali
 16609,mommi11,kaidovahtra@hotmail.com,cdxeioaa
 16610,plauras,r.panaviene@inbox.lt,kiskiakopustis
 16611,sabaots,puuvana@gmail.com,sabaots
@@ -12075,7 +12075,7 @@
 16635,InnaJu,inna.juhnevica@rtu.lv,231274_Inna
 16636,laikanieminen,merja@merjanieminen.com,laikapaika13
 16637,ilusmaa,ilusmaa@suomi24.fi,mondeo98
-16638,sn\xf6boll,rosjell@hotmail.com,n\xe4ckros
+16638,snöboll,rosjell@hotmail.com,näckros
 16639,kadu,kadu@luukku.com,pekkeli!olggis
 16640,Krist5,Krist.lilleke@mail.ee,uddh7id
 16641,hschil,HerbertSchilling@aol.com,IlseMaus
@@ -12094,7 +12094,7 @@
 16654,kati.kalmet@hotmail.com,kati.kalmet@hotmail.com,n1nasarv1k
 16655,beautylill,beautylill@mail.ru,beatris2007
 16656,tarja.kiviniitty@luukku.com,tarja.kiviniitty@luukku.com,12su14TK56si
-16657,SariKekki,inkamilla.kekki@gmail.com,Savotantytt\xf6
+16657,SariKekki,inkamilla.kekki@gmail.com,Savotantyttö
 16658,Erikaa,ebileisiene@gmail.com,masterkey
 16659,inese77,inese77@gmail.com,Vakars34
 16660,gedas111,gedas.bcc@gmail.com,seklos
@@ -12104,9 +12104,9 @@
 16664,Lylian Meister,lylian.meister@artun.ee,Piret3
 16665,sari,s.virtanen@aina.net,rasintie15
 16666,cchris344,cchris344@hotmail.fr,popsy62
-16667,mehil\xe4inen ,laine.leena@gmail.com,lepp\xe4kerttu
+16667,mehiläinen ,laine.leena@gmail.com,leppäkerttu
 16668,ilupuu,li71@hot.ee,KaruPoeg22
-16669,jelena r\xe4stas,jelenarastas@gmail.com,emilia
+16669,jelena rästas,jelenarastas@gmail.com,emilia
 16670,Silva2,silva.kasemets@just.ee,Kasemets
 16671,ImreLiiv69,imre.liiv69@gmail.com,Roheline6
 16672,korneliuskevvai,tee@linnutee.ee,korneliuss63
@@ -12168,13 +12168,13 @@
 16728,castravete,cstrvt@gmail.com,transfer010
 16729,haltilahti,haltilahti@yahoo.com,siemenet
 16730,Sewer,restival@web.de,moros
-16731,p\xf6llundus,imbi.mitt@mail.ee,tomat15
+16731,pöllundus,imbi.mitt@mail.ee,tomat15
 16732,urve otti,urve.otti02@gmail.com,kus on lille kodu
 16733,ah,age@vormsi.ee,vtpkl123
 16734,triinu.s@hotmail.com,triinu.s@hotmail.com,Armastan0
 16735,sandrabarkane,sandra.sss@inbox.lv,igaunija
 16736,decibels,sarmiger@inbox.lv,piparitis
-16737,petla,petri.lappalainen@gmail.com,virum\xe4lli
+16737,petla,petri.lappalainen@gmail.com,virumälli
 16738,danuta,danuta@inbox.lv,podzina13
 16739,onlyyou,onlyyou_2012@rambler.ru,valeriya98
 16740,eugen.kapp,egon.sepp@gmail.com,polegi1234
@@ -12184,7 +12184,7 @@
 16744,Hortensia,eppvahero@mail.ee,jakobpaul
 16745,hennjaak@hot.ee,hennjaak@hot.ee,sitike
 16746,jas1001,oja@neti.ee,tuluke
-16747,kotikissa,marja-liisa41@luukku.com,k\xe4hmy2
+16747,kotikissa,marja-liisa41@luukku.com,kähmy2
 16748,salapuut,kilkkila.paula@gmail.com,tindelo
 16749,Kamicha,bjorklund.jaana@gmail.com,mekaanikko
 16750,ingver,ulvi.ingver@gmail.com,ingver
@@ -12214,7 +12214,7 @@
 16774,mottonen76,riikka.stormbom@gmail.com,herramutteri
 16775,terje696,terje696@hot.ee,kassa007
 16776,ellass,ella.saarinen2@gmail.com,hepoponi
-16777,kevadk\xfclv,palitse@gmail.com,Sidrun89
+16777,kevadkülv,palitse@gmail.com,Sidrun89
 16778,sikur,sikur@inbox.lv,zibene35
 16779,asta.laansoo@gmail.com,Laansoo,vakuraam
 16780,marka20,marka19@hot.ee,kalla21
@@ -12222,7 +12222,7 @@
 16782,Busliks,inga.i.i@inbox.lv,789789
 16783,Tillia,matilda.karlsson@live.se,ama
 16784,sebastian2803,krista@kristallkotkas.ee,poiss
-16785,tiinli,zinniaprofusion@gmail.com,Kes\xe4kukkia
+16785,tiinli,zinniaprofusion@gmail.com,Kesäkukkia
 16786,liina82,liinaliina82@gmail.com,Internet1
 16787,JelenaJ,jelena.jarosh@tele2.com,Bonka126
 16788,Mikamaka,maristuuling@gmail.com,kilukilu
@@ -12368,7 +12368,7 @@
 16929,Astra Vitola,astra.vitola@gmail.com,pupsiks13
 16930,HildaY,m.ylinen@hotmail.com,HildaY02
 16931,seemneid,raudsepp.tanel@gmail.com,Seened
-16932,p\xe4ivikki14,maarit_annika@hotmail.com,joenvarsi14
+16932,päivikki14,maarit_annika@hotmail.com,joenvarsi14
 16933,vanagaingrida,vanagaingrida@inbox.lv,r5o5b5e5r5t5s5
 16934,po3?n81u,zui@luukku.com,?92kM5e
 16935,evamai,ewaliiva@gmail.com,paksuke
@@ -12412,7 +12412,7 @@
 16973,anchutka,anchutka2009@gmail.com,lolita19652208
 16974,Kotljarevski,k.larissa@mail.ru,17451valeria
 16975,luule.elbra,luule.elbra@mail.ee,punapea
-16976,Humina3,pj.nordberg@gmail.com,l\xe4nnenmuori
+16976,Humina3,pj.nordberg@gmail.com,lännenmuori
 16977,Kasvitarhuri,kasvitarhuri@luukku.com,kasvitarhuri
 16978,mojsad,tatjana.moskalenko@inbox.lv,petunija
 16980,taajde@inbox.lv,taajde@inbox.lv,cikita
@@ -12448,7 +12448,7 @@
 17010,tomatamara,taisa@inbox.lv,leda2028
 17011,Aianduskool,tonis.soopere@aianduskool.ee,soopere
 17012,ylenna-,kallas18@hot.ee,sannumannu
-17013,k\xfc,-,k\xfc
+17013,kü,-,kü
 17014,Melonenmann,hed.3@gmx.de,chiliexpert
 17015,KaireK,kairekalk@hotmail.com,torbik
 17016,kukkamukka,annelipaju77@hotmail.com,karuperse
@@ -12499,7 +12499,7 @@
 17061,elleunt,elle.unt@mail.ee,unduke
 17062,kukkr,raivo.kukk@felix.ee,helarihelerin
 17063,bippy,janeorul@gmail.com,kikumimi
-17064,katlin1234,K\xfcnnapu,niltak1
+17064,katlin1234,Künnapu,niltak1
 17065,Dysted@tdcspace.dk,Dysted@tdcspace.dk,Cd0604400546
 17066,hajuherne,tvastavirta@gmail.com,hajuherne
 17067,helsu73,heli.horppu@helsinki.fi,kalsunnoita73
@@ -12557,7 +12557,7 @@
 17119,kairet1,kairet1@hotmail.com,kikuke
 17120,IlzeD,ilzede@hotmail.com,dzipari5
 17121,SeidiKuld,seidi.kuldvere@mail.ee,kristel
-17122,Heli J\xe4rv,"jarv,heli@gmail.com",panter
+17122,Heli Järv,"jarv,heli@gmail.com",panter
 17123,Tr1na,katrin.uurike@gmail.com,kurjam
 17124,rraudvee,raivo.raudvee@gmail.com,tidaat
 17125,KadriKKK,kadri.kunnapuu@gmail.com ,Miki911
@@ -12595,7 +12595,7 @@
 17157,arto,arto.katajamaki@livia.fi,silakka
 17158,pille,pille.hermann@botaanikaaed.ee,hermann
 17159,MailiJ,maili.joesalu@gmail.com,marikene9001
-17160,perse,aly.taht@gmail.com,V\xe4rav
+17160,perse,aly.taht@gmail.com,Värav
 17161,noobike,katrin.riho@mail.ee,valgunool
 17162,agripina,markovna14@inbox.lv,kutuzov1969
 17163,dgunta,dgunta@inbox.lv,gandrs
@@ -12642,7 +12642,7 @@
 17204,colina,colina@tvnet.lv,159159159
 17205,minugakoos,virroindrek@gmail.com,vikerkaar
 17206,inaragailite,gailiteinara@inbox.lv,atmoda
-17207,V\xe4ino,pilvivanik@hot.ee,metsakiisu
+17207,Väino,pilvivanik@hot.ee,metsakiisu
 17208,kinsiveer2,kinsiveer2@hot.ee,vuntsid
 17209,kodukliima,kodukliima@hot.ee,Kliima36
 17210,levkoi,maja54@hot.ee,nelk
@@ -12666,7 +12666,7 @@
 17228,Kiisumiisu68,maia.agar@gmail.com,Kaspar89
 17229,Annela,annelatm@mail.ee,annelat2nav
 17230,annenysted,annenysted@hotmail.com,leif1914
-17231,koldylle,kold42@hot.ee,m\xe4r803
+17231,koldylle,kold42@hot.ee,mär803
 17232,Una,Anu.vask@hot.ee,Elizabeth
 17233,gladiola,sikumss@inbox.lv,darzniece
 17234,daiga.a.ozolina,ozolinad@gmail.com,ozolina86
@@ -12692,7 +12692,7 @@
 17254,Rajce,auzka@seznam.cz,rajce
 17255,DanutaV,Valpetere,milumini03
 17256,Kata21,kaire.maas@eu.o-i.com,Kaire41
-17257,v2etis,ds.lauri@gmail.com,kakap\xe4h
+17257,v2etis,ds.lauri@gmail.com,kakapäh
 17258,lumi,kairi.sild@mail.ee,leissi
 17259,pireti,piret.indlo@mail.ee,trebla
 17260,annna71,annna71@tlen.pl,asplenium
@@ -12703,11 +12703,11 @@
 17265,Ellllmars,siksa@inbox.lv,elmars01
 17266,Helve,helvekytt@gmail.com,William
 17267,Perla.bonita,anne1iy@hot.ee,Perlita1
-17268,rohen\xe4puke,aivi.poobus@gmail.com,Oravamutt
+17268,rohenäpuke,aivi.poobus@gmail.com,Oravamutt
 17269,chraa15,rylee@hot.ee,meri33
 17270,maarika@deluxe.ee,maarika@deluxe.ee,anakonda
 17271,Waldemar Kerk,wk-358792@versanet.de,angelika
-17272,h\xe4kma,matti.hakkila@gmail.com,mer6api
+17272,häkma,matti.hakkila@gmail.com,mer6api
 17273,Murulauk,katrin.sooniso@gmail.com,porru
 17274,daniela,cheleb@aliceposta.it,Arcobaleno
 17275,anttuli,anna.kontiokorpi@luukku.com,asparagus
@@ -12727,7 +12727,7 @@
 17289,nraam@yandex.ru,nraam@yandex.ru,78787878
 17290,riikka76,riikka.stormbom@gmail.com,herramutteri
 17291,lambrik,kadi_lambrik@hotmail.com,karukell
-17292,Tiit V\xe4ljaots,tiit@piperon.com,j\xe4rve2
+17292,Tiit Väljaots,tiit@piperon.com,järve2
 17293,Kurgikunn1961,algiaivar@hot.ee,kapsauss4132
 17294,Maristella,maristella@hot.ee,Mandy54
 17295,JVashtshilko,j.vashtshilko@gmail.com,sandra2911
@@ -12784,7 +12784,7 @@
 17346,paekaevu,paekaevu@gmail.com,mattiasanni
 17347,Aira,airahu@hot.ee,Manni
 17348,roosieva,eva.savan@gmail.com,talukool
-17349,ailialumets,ailialumets@hot.ee,Mustaj\xfcri1
+17349,ailialumets,ailialumets@hot.ee,Mustajüri1
 17350,Kadastiku,marin.poldsamm@gmail.com,KirKeKe
 17351,kullikesaarna,paekaevu@gmail.com,mattiasanni
 17352,regouc,regouc@siol.net,tartaruga
@@ -12794,8 +12794,8 @@
 17356,vija123,suligais_vijucis@inbox.lv,saulite
 17357,marjeilves,marje.ilves@gmail.com,kirjakalla
 17358,tiiu.rahu@mail.ee,tiiu.rahu@mail.ee,rahu
-17359,raijaelise,raija.jarvenpaa@luukku.com,H\xe4tikk\xe415
-17360,Seeme,maarikamottus@hot.ee,Saarem\xe4e
+17359,raijaelise,raija.jarvenpaa@luukku.com,Hätikkä15
+17360,Seeme,maarikamottus@hot.ee,Saaremäe
 17361,arviroodus@gmail.com,arviroodus@gmail.com,Rentniku1
 17362,David_Sm,d.smejkal@seznam.cz,fancy234
 17363,LiinaHanna,liinalaupa@hot.ee,Supsik
@@ -12906,8 +12906,8 @@
 17468,leeloludvi82,leeloludvi@gmail.com,leeloludvi82
 17469,jaanjanes,jaanjanes@hotmail.com,112233
 17470,wilts,wilts@smail.ee,Wilts.68
-17471,Peoleo,tiiulaidre@hot.ee,\xe4mblik
-17472,Krista P\xe4rn,kristakasemae@gmail.com,lillemeri
+17471,Peoleo,tiiulaidre@hot.ee,ämblik
+17472,Krista Pärn,kristakasemae@gmail.com,lillemeri
 17473,ange.tahve@ensto.com,ange.tahve@ensto.com,HELACHRISTIN
 17474,Oksana18,oksana1881@yahoo.com,Tuula123
 17475,veera1948,super.veera@mail.ru,piparkook68
@@ -12995,7 +12995,7 @@
 17557,TiigerTuhat,pikkov@artun.ee,oskar2002
 17558,helia,aasmann@hot.ee,b0sseKas
 17559,Kaili30,kaasikkaili@gmail.com,Kailik
-17560,P\xc4RSON,tiina.parson@gmail.com,parsoti
+17560,PÄRSON,tiina.parson@gmail.com,parsoti
 17561,greete2003,piiakingsepp@gmail.com,kermo2012
 17562,kirby,rencuksdaina@inbox.lv,purvapurvs
 17563,villans1@gmail.com,villans1@gmail.com ,tyttigia
@@ -13121,7 +13121,7 @@
 17684,silvivarilepp,silvivarilepp@hot.ee,s123v123
 17685,dacejepere,dacejepere@inbox.lv,didzis123
 17686,gundegas28,gundegas28@inbox.lv,gundegas
-17687,K\xfclli1961,meri.lin@mail.ee,mesimumm
+17687,Külli1961,meri.lin@mail.ee,mesimumm
 17688,lauri0506,lauri0506@gmail.com,mikipontu
 17689,Oodipop,minna.siltala@icloud.com,Pippurikukka8
 17690,MU2014,milja-udd@luukku.com,TERE3113
@@ -13156,7 +13156,7 @@
 17720,Stenudden,ann-sofie.mangs@home.se,ann38fre
 17721,Jassu,aarne.sch@gmail.com,1950aarne
 17722,wuermchen,das-wuermchen@t-online.de,nwm-dh36
-17723,Rantala,reijo.lampi@kolumbus.fi,Myrskyl\xe4
+17723,Rantala,reijo.lampi@kolumbus.fi,Myrskylä
 17724,kultakutri,maskuun@gmail.com,kallis
 17725,driigov,driigov@gmail.com,jankujutta
 17726,aivi,olesk,uusaasta
@@ -13164,7 +13164,7 @@
 17728,catts,merike@planet.ee,mer88ike
 17729,armand,armand.karjatse@gmail.com,muffmuff
 17730,krabike,lessuke@gmail.com,krabike88
-17731,K\xfclli Must,kylli@alatskiviloss.ee,3Tytart
+17731,Külli Must,kylli@alatskiviloss.ee,3Tytart
 17732,amone1,liga.murniece@gmail.com,krievane1
 17733,saulite55,livijamurniece@tvnet.lv,pansis
 17734,LIUDMILA,haapsalu.ljudmila@gmail.com,LJUDMILA
@@ -13295,7 +13295,7 @@
 17859,nadezda.tsernobai,nadezda.tsernobai@artcol.ee,hope85
 17860,OPminions,olympusminions@yahoo.com,09485970087renz24
 17861,lyridala,ridalaly@hot.ee,ridalaly
-17862,Riia,rialohmus@hot.ee,L\xf5hmus
+17862,Riia,rialohmus@hot.ee,Lõhmus
 17863,nature,biokatlin@gmail.com,dalida16
 17864,Otrada,Otradaiuteshenie@gmail.com,4040432
 17865,age31,age001001@hot.ee,ageVali8
@@ -13332,7 +13332,7 @@
 17896,kaido444,kaido444@gmail.com,19740530
 17897,annemaiekaie,maie.stimmer@mail.ee,425354
 17898,bruno9,tooma.bruno@gmail.com,onurb9
-17899,Salum\xe4e,heljo1947@hotmail.com,Soorinna
+17899,Salumäe,heljo1947@hotmail.com,Soorinna
 17900,Aki,angerjas.agnes@gmail.com,gh3770h1m
 17901,saripaavola,paavola_4@hotmail.com,olkkopuro
 17902,eriksalum,erik.salum@gmail.com,werpoisdf
@@ -13353,7 +13353,7 @@
 17917,karttuhan,hanna-k.karttunen@suomi24.fi,hemppa98
 17918,mixer,soovikkaja@gmail.com,maarmastansind
 17919,Maire Katte,Mairekatte@hotmail.com,suhkrupea
-17920,Reenum\xe4giaire,aire.pulmalill@gmail.com,RicoGreete
+17920,Reenumägiaire,aire.pulmalill@gmail.com,RicoGreete
 17921,hurjatar,hurjatar@gmail.com,skitsofrenia
 17922,Rand,Aime.Randveer@gmail.com,12Kuusepuu
 17923,Bebras,provitani@hot.ee,burundukas
@@ -13370,7 +13370,7 @@
 17934,thamis,thamis@amena.com,Vient0
 17935,sq42na,taivo.pungas@gmail.com,92702689
 17936,punkar17,toomas.malva@politsei.ee,Malviina17
-17937,Aian\xe4pp,veronika.madalvee@gmail.com,murulauk
+17937,Aianäpp,veronika.madalvee@gmail.com,murulauk
 17938,johnp,Pjaterikov,654123
 17939,x35,nikolai4.nb@gmail.com,kilka
 17940,mariana83,paula.lehtinen@gmail.com,joonas
@@ -13408,14 +13408,14 @@
 17972,ikuus,ik@pro-step.ee,Nipitirin2
 17973,kmetija_zahojnik,kmetija.zahojnik@gmail.com,trolek82
 17974,tihaja,maria.tihaja@hotmail.com,mestari33
-17975,h\xe4belik,kaja.kerman@hotmail.com,jussisussi
+17975,häbelik,kaja.kerman@hotmail.com,jussisussi
 17976,jimmy57,jimmy.weiss@neuf.ff,santhepheap
 17977,siimberg,siim.berg@mail.ee,armastan
 17978,teat,teatamm@yahoo.com,tutitu78
 17979,kerol,kerol@hot.ee,scorpio
 17980,leidalend,reet.lepikov@mail.ee,tooni
 17981,hogtomtaskola,hogtomtarolle@gmail.com,hogtomtaskola
-17982,AnuT\xe4hemaa,anutahemaa1@gmail.com,cincodineros
+17982,AnuTähemaa,anutahemaa1@gmail.com,cincodineros
 17983,zdenka.cerjak@siol.com,zdenka.cerjak@siol.com,nokia710
 17984,raadik,raadik@hot.ee,12raadik3412
 17985,Sirca001,sirle.haidak@gmail.com,sambaa
@@ -13423,7 +13423,7 @@
 17987,jukuopib@hot.ee,jukuopib@hot.ee,jukuke
 17988,markbar,abyssaus@bluemaxx.com.au,#seedsee1
 17989,palu,mr.palu@gmail.com,niffex22
-17990,aivars,aivar@mets.ee,k\xe4resm\xe4e
+17990,aivars,aivar@mets.ee,käresmäe
 17991,kirsipuu,ehakirsipuu@gemail.com,Barry0803
 17992,ZinaidaK,zinaida.klyga@gmail.com,lagenaaria
 17993,Markii,kaiu5@hotmail.com,emanuele
